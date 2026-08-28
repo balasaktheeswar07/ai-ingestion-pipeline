@@ -112,7 +112,7 @@ async def collect_phase_two(
     *,
     limit: int = 20,
     config_path: Path = Path("config/sources.json"),
-    store_path: Path = Path("data/processed/idempotency.db"),
+    store_path: Path = Path("data/processed/frontier_atlas.db"),
     mapping_log: Path = Path("data/output/entity_mapping.jsonl"),
 ) -> tuple[list, list]:
     config = load_sources(config_path)

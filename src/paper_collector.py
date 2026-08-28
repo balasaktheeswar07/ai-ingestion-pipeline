@@ -34,7 +34,7 @@ def paper_identity(paper: ResearchPaper) -> str:
 
 
 class PaperCollector:
-    def __init__(self, client: AsyncHTTPClient, workers: int = 10, store_path: Path = Path("data/processed/idempotency.db")) -> None:
+    def __init__(self, client: AsyncHTTPClient, workers: int = 10, store_path: Path = Path("data/processed/frontier_atlas.db")) -> None:
         self.client, self.workers, self.store_path = client, workers, store_path
 
     async def collect(self, urls: Iterable[str]) -> list[ResearchPaper]:
