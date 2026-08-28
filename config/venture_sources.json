@@ -1,0 +1,10 @@
+{
+  "startups": [
+    {"name": "OpenAI", "url": "https://openai.com/about/"},
+    {"name": "Anthropic", "url": "https://www.anthropic.com/company"}
+  ],
+  "products": [
+    {"name": "OpenAI Products", "url": "https://openai.com/chatgpt/overview/"},
+    {"name": "Anthropic Products", "url": "https://www.anthropic.com/claude"}
+  ]
+}

@@ -1,0 +1,8 @@
+.env
+.venv/
+*.jsonl
+data/processed/*.db
+data/output/*.csv
+data/output/sheets_dry_run.json
+__pycache__/
+*.py[cod]

@@ -1,0 +1,16 @@
+{
+  "news": [
+    {"name": "OpenAI News", "url": "https://openai.com/news/rss.xml", "kind": "rss"},
+    {"name": "Anthropic News", "url": "https://www.anthropic.com/news", "kind": "html"},
+    {"name": "Google AI Blog", "url": "https://blog.google/technology/ai/rss/", "kind": "rss"},
+    {"name": "Hugging Face Blog", "url": "https://huggingface.co/blog/feed.xml", "kind": "rss"},
+    {"name": "DeepMind Blog", "url": "https://deepmind.google/discover/blog/", "kind": "html"}
+  ],
+  "jobs": [
+    {"name": "OpenAI Careers", "url": "https://openai.com/careers/search/", "kind": "html"},
+    {"name": "Anthropic Careers", "url": "https://www.anthropic.com/careers", "kind": "html"},
+    {"name": "Google Careers AI", "url": "https://www.google.com/about/careers/applications/jobs/results/?q=AI", "kind": "html"},
+    {"name": "Hugging Face Jobs", "url": "https://apply.workable.com/huggingface/", "kind": "html"},
+    {"name": "Mistral AI Careers", "url": "https://jobs.lever.co/mistral", "kind": "html"}
+  ]
+}
