@@ -1,0 +1,12 @@
+[INFO] Starting venture collection (phase=3, limit=100)...
+[WARNING] Source forbidden or blocked (403): https://openai.com/about/
+[WARNING] Request failed (401): https://huggingface.co/api/organizations
+[WARNING] Source forbidden or blocked (403): https://www.perplexity.ai/about
+[WARNING] Source forbidden or blocked (403): https://openai.com/pricing
+[WARNING] Source forbidden or blocked (403): https://www.perplexity.ai/pro
+[WARNING] Retrying https://www.cursor.com/pricing after ClientResponseError in 1.09s
+[WARNING] Retrying https://www.cursor.com/pricing after ClientResponseError in 2.21s
+[ERROR] Request failed after retries: https://www.cursor.com/pricing (400, message='Got more than 8190 bytes when reading: b"default-src \'self\' ; script-src \'self\' \'unsafe-inline\' \'unsafe-eval\' cursor.com *.cursor.com cursor....".', url='https://cursor.com/pricing')
+[INFO] Collected 8 startups and 56 products
+[INFO] Wrote 8 startups to data\output\startups.jsonl
+[INFO] Wrote 56 products to data\output\products.jsonl

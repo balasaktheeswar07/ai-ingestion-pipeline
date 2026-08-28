@@ -28,9 +28,15 @@ def extract_startup(html_or_json: str, url: str, source_name: str, *, entity_nam
 
     if not name:
         soup = BeautifulSoup(html_or_json, "html.parser")
-        title = soup.find("meta", attrs={"property": "og:site_name"}) or soup.find("meta", attrs={"property": "og:title"}) or soup.find("h1") or soup.find("title")
-        raw_title = title.get("content") if title and title.name == "meta" else title.get_text(" ", strip=True) if title else ""
-        name = " ".join(re.sub(r"^(About|Welcome to|Home)\s*[-|:]\s*", "", raw_title, flags=re.I).split())
+        # Prefer a clean site name over a title that may carry a tagline.
+        site = soup.find("meta", attrs={"property": "og:site_name"}) or soup.find("meta", attrs={"name": "og:site_name"})
+        title = soup.find("meta", attrs={"property": "og:title"}) or soup.find("h1") or soup.find("title")
+        if site and site.get("content"):
+            name = " ".join(site["content"].split())
+        else:
+            raw_title = title.get("content") if title and title.name == "meta" else title.get_text(" ", strip=True) if title else ""
+            raw_title = re.sub(r"\s*[|·—-]\s*(?:About|Home|Welcome to).*$", "", raw_title, flags=re.I)
+            name = " ".join(re.sub(r"^(About|Welcome to|Home)\s*[-|:]\s*", "", raw_title, flags=re.I).split())
 
     if not name:
         return None

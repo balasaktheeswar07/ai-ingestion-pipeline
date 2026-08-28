@@ -18,5 +18,10 @@ class IdempotencyStore:
         except sqlite3.IntegrityError:
             return False
 
+    def clear_type(self, record_type: str) -> int:
+        cursor = self.connection.execute("DELETE FROM processed WHERE record_type = ?", (record_type,))
+        self.connection.commit()
+        return cursor.rowcount
+
     def close(self) -> None:
         self.connection.close()

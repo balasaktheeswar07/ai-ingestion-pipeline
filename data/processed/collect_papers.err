@@ -1,0 +1,2194 @@
+[INFO] Discovering up to 1000 paper URLs (source=arxiv)...
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27454v1
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27449v1
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27442v1
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27439v1
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27429v1
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27427v1
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27424v1
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27421v1
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27406v1
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27402v1
+[INFO] Extracted paper: SWE-Prime: Fewer Trajectories, Better Performance
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27397v1
+[INFO] Extracted paper: WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27395v1
+[INFO] Extracted paper: Persona-Execution Separation: An Architecture Pattern for Evolving LLM Agents under Execution Audit
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27392v1
+[INFO] Extracted paper: Learning a Continuous Sepsis Severity Score Without Hour-by-Hour Supervision: A Two-Site Retrospective Study
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27391v1
+[INFO] Extracted paper: RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27367v1
+[INFO] Extracted paper: From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27366v1
+[INFO] Extracted paper: Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27365v1
+[INFO] Extracted paper: Beyond F1: Evaluating Coverage and Failure Recovery in AI Model Security Scanners
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27364v1
+[INFO] Extracted paper: CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27358v1
+[INFO] Extracted paper: LeVJEPA: Efficient & Scalable Video Pretraining without the Heuristics
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27345v1
+[INFO] Extracted paper: Making Clinical Language Models Auditable: Concept-Guided Fine-Tuning for Robust Prediction
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27340v1
+[INFO] Extracted paper: Sophistication in GenAI Use: Field Evidence from a Large Firm
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27311v1
+[INFO] Extracted paper: CorporateBench: Large-Scale Q&A Benchmarking with Temporal Knowledge Bases
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27309v1
+[INFO] Extracted paper: Successive Capacity Growth: Task-Complexity-Driven Width and Depth Expansion for Vision Transformer Encoders in JEPA World Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27296v1
+[INFO] Extracted paper: KnockGS:interaction-Grounded Calibrationof Physical Gaussian Representations
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27282v1
+[INFO] Extracted paper: RCMN: Understanding Misleadingness in Influential Public Discourse
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27268v1
+[INFO] Extracted paper: Property-Specific Recoverability from Contact PPG to Camera rPPG under Heterogeneous Observation Conditions
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27266v1
+[INFO] Extracted paper: Stageboost: Recommending Signals Based on Counterfactual Estimation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27260v1
+[INFO] GitHub stars fetched for deepsteer/deepsteer
+[INFO] Extracted paper: How Language Models Organize and Structure Moral Knowledge
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27244v1
+[INFO] Extracted paper: Not All Eval-Awareness Is Equal: Capabilities Framing Predicts Compliance
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27225v1
+[INFO] Extracted paper: PAWBench: How Far Are We from Probabilistically Aligned World Modeling?
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27206v1
+[INFO] Extracted paper: What Makes Good Agentic Data? An ACE Lens on Data Generation for LLM Agents
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27184v1
+[INFO] Extracted paper: Difference-in-Differences on a Censored Rating Scale Can Manufacture an Effect: Evidence from a Pre-Registered LLM-Judge Audit
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27176v1
+[INFO] Extracted paper: BrailleBench: Investigating Multi-Criteria Braille Comprehension in Large Language Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27167v1
+[INFO] Extracted paper: LLMs Can Design Near-Optimal OR Algorithms
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27150v1
+[INFO] Extracted paper: Compositional Online Learning for Semantic Data Processing Systems
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27149v1
+[INFO] Extracted paper: TADP: Task-Aware Deformable Prediction for Single-Stage 3D Object Detection
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27147v1
+[INFO] Extracted paper: Naive Prompt Optimization: Rethinking the Need for Complex Prompt Search
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27146v1
+[INFO] GitHub stars fetched for jhxu5214/HarnessLens
+[INFO] Extracted paper: Verify Smarter, Evolve Further: Efficient Harness Evolution through Behavior-Aware Verification
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27144v1
+[INFO] Extracted paper: STEP: State-Aware Task Estimation and Planning with Multi-Modal LLMs for Human-Robot Collaboration
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27142v1
+[INFO] Extracted paper: When Text Misleads: Inconsistent-Aware Reasoning for Audio-Grounded Dialogue
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27141v1
+[INFO] Extracted paper: Thomson: Continual Learning of Frontier Models for SovereignAI
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27127v1
+[INFO] Extracted paper: When Tool Outputs Become Commands: Separating Action Induction from Runtime Authorization in Tool-Augmented LLM Agents
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27102v1
+[INFO] Extracted paper: ANTShapes Benchmarking Datasets for Event-Based Neuromorphic Object Classification
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27101v1
+[INFO] Extracted paper: LLMs in Digital EDA: A perspective on shifting roles from Generation to Orchestration
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27088v1
+[INFO] Extracted paper: Feature Transformation Enhanced Jacobi Polynomial Graph Filtering for Graph Anomaly Detection
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27086v1
+[INFO] Extracted paper: BPMN4CAI: A BPMN Extension for Modeling Dynamic Conversational AI
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27080v1
+[INFO] GitHub stars fetched for jjL357/PACE
+[INFO] Extracted paper: PACE: A Unified Condense-and-Extract Paradigm for Fast VLM Inference
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27077v1
+[INFO] Extracted paper: LAAF: A Layered Accountability Architecture Framework for LLM Applications
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27072v1
+[INFO] Extracted paper: Active sensing to characterize the heterogeneity of plant stress
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27066v1
+[INFO] Extracted paper: Safety Does Not Compose: Non-Decaying Loop State for Autonomous LLM Agents
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27046v1
+[INFO] Extracted paper: GRAIN: Bridging Name and Narrative Shifts in Real-World Graph Reasoning through Invariance-Rewarded Agentic RL
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27044v1
+[INFO] Extracted paper: TransMeme: A Multi-Agent Framework for Cross-Cultural Meme Transcreation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27039v1
+[INFO] Extracted paper: A Contract-Centered Architecture for Scalable and Manageable Agentic Runtimes
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27021v1
+[INFO] Extracted paper: Learning Transverse Momentum Distributions from Raw Scattering Events via Conditional Diffusion
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27011v1
+[INFO] Extracted paper: Active Diffusion-Based Inference for Ill-Posed Inverse Problems under Incomplete Priors
+[INFO] Fetching paper: http://arxiv.org/abs/2608.27010v1
+[INFO] GitHub stars fetched for Pranav-1100/confidence-calibration-evaluation
+[INFO] Extracted paper: Calibrated Enough to Know, Not Calibrated to Act: Fabricated Evidence Makes LLM Agents Commit to the Unknowable
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26991v1
+[INFO] Extracted paper: pro-team at LLMs4OL 2026 Tasks Flagship and Reuse: Retrieval-Augmented Generation and Vocabulary-Constrained Filtering for Ontology Learning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26990v1
+[INFO] Extracted paper: A Multi-Modal AI Framework for Real-Time Queue Prediction, Management and Optimisation in Intelligent Border Control Systems
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26983v1
+[INFO] Extracted paper: ASIL: Replacing Screenshot-and-Click with Structured State and Semantic Actions
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26951v1
+[INFO] Extracted paper: Performance Foundations of Parallel & Distributed Reasoning Language Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26950v1
+[INFO] Extracted paper: Magnon-induced phononic Chern insulator
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26949v1
+[INFO] Extracted paper: FaulT-Bench: Towards Benchmarking Network Troubleshooting LLM Agents under Unreliable User Tickets
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26899v1
+[INFO] Extracted paper: Emotional Preferences as Goal-Priority Regulation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26896v1
+[INFO] Extracted paper: Multi-Person Human Motion Forecasting in Complex Scenes
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26895v1
+[INFO] Extracted paper: Omni-Interactive Universal Embedder
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26889v1
+[INFO] Extracted paper: Beyond Classification: Task-Dependent Learnability under Privacy-Motivated Image Transformations
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26885v1
+[INFO] GitHub stars fetched for ZhuLinsen/daily_stock_analysis
+[INFO] Extracted paper: DSA: Evidence-Aware LLM-Agent Orchestration for Multi-Market Stock Research
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26882v1
+[INFO] Extracted paper: Counterfactual Bias Testing for Application Tracking System
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26870v1
+[INFO] Extracted paper: PLCBench: Can Autonomous LLM Agents Turn PLC Access into Sustained Physical Impact?
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26867v1
+[INFO] Extracted paper: AI agents in Algorithmic Electricity Markets: On the Emergence of Tacit Collusion
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26860v1
+[INFO] Extracted paper: A Table Is Worth 64 Tokens: Pixel-level Compression for Multi-Table Document Question Answering
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26856v1
+[INFO] Extracted paper: When Memory Takes Gradients: Collaborative Vector Memory for Agentic Recommender Systems
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26849v1
+[INFO] Extracted paper: Per-View Gaussian Predictions Enable Training-Free Distractor Filtering in Feed-Forward 3DGS
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26848v1
+[INFO] Extracted paper: Learning-Augmented Online Allocation under Unreliable Advice: Robustness, Exposure Fairness, and Distribution Shift
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26846v1
+[INFO] Extracted paper: From Atomic to Agentic: Towards Interpretable Evaluation of LLMs' Agentic Mathematical Capabilities
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26836v1
+[INFO] Extracted paper: Evaluating human and LLM screening workflows in a conceptually complex scoping review: Recall--workload trade-offs and run-to-run consistency
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26807v1
+[INFO] GitHub stars fetched for ligeng0197/graphmemix
+[INFO] Extracted paper: GraphMemix: Query-Aware Evidence Forests for Long-Term Multimodal Agent Memory
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26788v1
+[INFO] Extracted paper: Decoupling Planning and Control for Instructable Agents
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26780v1
+[INFO] Extracted paper: Evaluating Confidence-Gated Retrieval with Matched Trajectory Replay
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26763v1
+[INFO] Extracted paper: Reinforcement Learning-Based Control of CAV Platoon Joining Maneuvers in Mixed Traffic
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26757v1
+[INFO] Extracted paper: SymbolLKG: Towards Verifiable Logical Reasoning via Logical Knowledge Graph and Symbolic Solvers
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26753v1
+[INFO] Extracted paper: From Reasoning to Pixels: Grounded Medical Multimodal LLMs for VQA and Segmentation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26750v1
+[INFO] Extracted paper: MedFG-VQA: Low-Frequency Memory and Graph Attention for Lightweight Medical VQA
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26747v1
+[INFO] Extracted paper: BekchiAI: Measuring, Observing, and Controlling LLM Agents in One Click
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26746v1
+[INFO] Extracted paper: LiveSim: Simulating Environment-Shaped Users in Multi-Agent Live-Stream Ecosystems
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26743v1
+[INFO] Extracted paper: C-Unseen: Weak Signal Detection in Dynamic Temporal Knowledge Graphs via LLM Reasoning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26733v1
+[INFO] Extracted paper: Daydreaming: Stealing Hidden Agent Skills through Black-Box Task Interaction
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26732v1
+[INFO] Extracted paper: Discovering Relationships in Data Lakes Using Large Language Models: An Industrial Case
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26730v1
+[INFO] Extracted paper: Categorizer Automata for Discounted-Sum Payoffs
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26714v1
+[INFO] Extracted paper: Graph-Guided Selective Unlearning for Language Models: Controlling Support Routes Beyond Forget Seeds
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26713v1
+[INFO] Extracted paper: AI Control Scientist: LLM-driven Agentic System for Automated Control Design
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26710v1
+[INFO] GitHub stars fetched for BUAA-IRIP-LLM/Behavior2Trip
+[INFO] Extracted paper: Behavior2Trip: Towards Personalized Travel Planning via User Behavior Trajectory
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26701v1
+[INFO] Extracted paper: FaultLens: Learning Compact Behavioral Test Suites for Generated Operational Programs
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26696v1
+[INFO] GitHub stars fetched for tangdouer1005/DeepChart
+[INFO] Extracted paper: DEEPCHART: How Far are LLMs from Faithful Data-Science Chart Generation?
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26694v1
+[INFO] Extracted paper: Five Primitives for Governing Autonomous AI Agents at Runtime
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26683v1
+[INFO] GitHub stars fetched for lmqfly/AgentFold
+[INFO] Extracted paper: AgentFold: Closed-Loop Agentic Search for Protein Folding Model Design
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26676v1
+[INFO] Extracted paper: AesCanvas: A Large-Scale Dataset and Benchmark for Aesthetic Critique and Contextual Suitability
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26674v1
+[INFO] Extracted paper: Style as a Confound: False Positives in AI Detection of Non-Native Academic Writing
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26658v1
+[INFO] Extracted paper: LiveVVT: High-Fidelity Video Virtual Try-On in Real Time
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26656v1
+[INFO] Extracted paper: Accelerating Scientific Research with Gemini in the Real-World
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26626v1
+[INFO] Extracted paper: Relational Over-Regularization: Graph-Based AI-Generated Text Detection via Sentence Transition Deviation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26623v1
+[INFO] GitHub stars fetched for Flavorfish/AutoRepro
+[INFO] Extracted paper: Beyond Execution: Auditing Experimental Fidelity in LLM-Driven Scientific Research
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26582v1
+[INFO] Extracted paper: Knowing When Not to Reuse: Conditional Experience Transfer in Autonomous LLM Post-Training
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26549v1
+[INFO] Extracted paper: Rethinking Message Passing as Retrieval for Text-Attributed Graph Learning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26546v1
+[INFO] Extracted paper: FOCUS & RePAIR: Mitigating Text Degeneration via Token-Level Guidance for Pruned Large Language Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26535v1
+[INFO] Extracted paper: Do LLMs Understand Personality? Rethinking Persona Fidelity Evaluation through Structured Behavioral Inference
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26530v1
+[INFO] Extracted paper: AgentJudgeBench: A Multi-Difficulty Benchmark for Evaluating LLM Judges on Agentic Tool-Calling
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26496v1
+[INFO] Extracted paper: J-Zero: Unified Challenger--Solver--Judge Co-Evolution from Zero Data
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26480v1
+[INFO] Extracted paper: PailitaoGR: Latent Think-with-Images for Generative Image Retrieval
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26462v1
+[INFO] Extracted paper: Risks and Controls for Multi-Agent Systems: an analytical framework for deployment of AI agents across organisational boundaries
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26442v1
+[INFO] Extracted paper: CoGeo-GS: Concept-Driven and Geometry-Aware Multi-Object Removal in 3D Scenes
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26432v1
+[INFO] Extracted paper: Physics-Informed Stochastic Configuration Machine: A Backpropagation-Free Neural Network with Fast Training for Nonlinear Differential Equations
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26430v1
+[INFO] Extracted paper: SIGMA: Structured Noise-Effect-Aware Grouped Multi-Agent Aggregation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26423v1
+[INFO] Extracted paper: DuMateBench: Evaluating Autonomous Agents in Complex Real-World Workflows
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26418v1
+[INFO] Extracted paper: The Latent Diagnostic Taxonomy: A Framework for Constructing Classifiers and Diagnosing Their Decisions, Applied to Prompt Injection Detection
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26410v1
+[INFO] Extracted paper: Redwood: A Frontier AI Accelerator Designed, Verified, and Deployed from Scratch in 2 Weeks by AI
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26386v1
+[INFO] Extracted paper: Zero-Shot Self-Orchestration with Ledger-Based Control for Improved LLM Coding Performance
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26385v1
+[INFO] Extracted paper: RTNav: Towards Real-Time Zero-Shot Object Navigation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26375v1
+[INFO] Extracted paper: SpeechGym: An Audio-Native Gym for Training Voice Agents via Reinforcement Learning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26372v1
+[INFO] Extracted paper: Fine-Tuning of Transformer models with Frames
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26346v1
+[INFO] Extracted paper: Multi2AV-Safety: Benchmarking Safety in Multimodal-to-Audio-Video Generation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26334v1
+[INFO] Extracted paper: PILOT in the Loop: Live Self-Improvement for Long-Horizon Agents
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26327v1
+[INFO] Extracted paper: Don't Overthink, Don't Underthink: Toward Adaptive Reasoning in Agentic AI
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26317v1
+[INFO] GitHub stars fetched for science-of-finetuning/diffing-toolkit
+[INFO] Extracted paper: Diff Mining: Logit Differences Reveal Finetuning Objectives
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26310v1
+[INFO] Extracted paper: Decay-Region Group Delay as a Forensic Cue for AI-Generated Impulsive Sounds
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26306v1
+[INFO] Extracted paper: Simultaneous Envy and Equitability Guarantees
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26295v1
+[INFO] Extracted paper: ProofEvolve: Neuro-Symbolic Evolution for Formal Automated Theorem Proving
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26292v1
+[INFO] Extracted paper: How Unlikely Is "Unlikely"? Assessing Verbal Probability Perception Across Large Language Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26291v1
+[INFO] Extracted paper: Modality Maturity Index: A benchmark for assessing multimodal capabilities of omni models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26263v1
+[INFO] Extracted paper: CG4AI: A Column Generation Framework for Training AI Models Under Constraints
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26105v1
+[INFO] Extracted paper: Knowledge-Verified Emergent Deception in LLM Agents Under Conflicting Incentives
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26095v1
+[INFO] Extracted paper: FaithSieve: Fine-Grained Evaluation of Math Proofs with Faithful Formal Evidence
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26094v1
+[INFO] GitHub stars fetched for adorosario/why-rags-hallucinate
+[INFO] Extracted paper: Why RAGs Hallucinate: Penalty-Aware Evaluation of Retrieval-Augmented Generation Systems with Knowledge-Gap Canaries
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26090v1
+[WARNING] Source not found: https://api.github.com/repos/kilian-group/KBevo
+[WARNING] GitHub repository unavailable: https://github.com/kilian-group/KBevo
+[INFO] Extracted paper: Co-Evolving Structured Knowledge and Reasoning in Language Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26088v1
+[INFO] Extracted paper: Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26237v1
+[INFO] Extracted paper: A Visual Dependence-Aware Framework for Multimodal Unsupervised Continual Post-Training
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26086v1
+[INFO] Extracted paper: MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26236v1
+[INFO] Extracted paper: SKILL.state: Scalable Long-Horizon Agent Skills
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26083v1
+[INFO] Extracted paper: Assessing mentalization in humans and large language models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26081v1
+[INFO] Extracted paper: MemToC: Benchmarking Memory-Tool Conflict Resolution in Large Language Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26235v1
+[INFO] Extracted paper: Finding and using interpretable latents in a neutrino foundation model with sparse autoencoders
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26074v1
+[INFO] Extracted paper: Approved Too Late: Verdict Staleness in LLM-Guarded Self-Adaptive Systems
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26070v1
+[INFO] Extracted paper: VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26053v1
+[INFO] GitHub stars fetched for Aditya-PS-05/INLAY
+[INFO] Extracted paper: On Scope Classification and Current Knowledge-Editing Benchmarks: A Negative Result, with INLAY as a Gradient-Free Case Study
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26052v1
+[INFO] Extracted paper: How Do LLM Agents Actually Get the Flag? Trace-Level Provenance for Agentic Offensive Security Evaluation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26051v1
+[INFO] Extracted paper: The Reasoning Tax: Token Economics of LLM Reasoning Across Task Types and Deployment Contexts
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26036v1
+[INFO] Extracted paper: How Much Rank Does LoRA Need? Rank-Error Bounds for Transformer Attention
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26019v1
+[INFO] Extracted paper: 6.5% of the Neuro-Symbolic Literature Can Be Reproduced from Its Published Artifacts, a Six-Stage Audit Framework and First Instantiation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26009v1
+[INFO] Extracted paper: TraceML: An Empirical Analysis of Human-Agent Planning in Machine Learning Development
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26005v1
+[INFO] Extracted paper: SwarmWorld: Stigmergic technological evolution in societies of language-model agents
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26004v1
+[INFO] Extracted paper: $R^3$: Training Robots to Reason in Natural Language via Reinforcement Learning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25992v1
+[INFO] Extracted paper: Gating Before Commitment: Anticipating Intent Divergence to Prevent Post-Interaction Decision Failures in Autonomous Driving
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25986v1
+[INFO] GitHub stars fetched for Muennighoff/prefix-sliding
+[INFO] Extracted paper: Prefix Sliding for efficient test-time scaling
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25981v1
+[INFO] Extracted paper: FRAME: separating sampling variation from representational cause in medical imaging fairness
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25973v1
+[WARNING] Source not found: https://api.github.com/repos/RoshanRane/ICON_decomposition
+[WARNING] GitHub repository unavailable: https://github.com/RoshanRane/ICON_decomposition
+[INFO] Extracted paper: ICON Decomposition: Multivariate Concept-Level Explanations of Deep Representations for Model Auditing
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25970v1
+[INFO] Extracted paper: Trace Integrity for LLM Data Agents: A Vision for Auditable Structured Reasoning in Real-World Systems
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25968v1
+[INFO] Extracted paper: The Value of Human Expertise
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25960v1
+[INFO] Extracted paper: AsymSpec: Context-Asymmetric Speculative Decoding for Agentic LLMs
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25940v1
+[INFO] Extracted paper: DualOPSD: Adaptive Privileged Teachers for On-Policy Self-Distillation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25937v1
+[INFO] Extracted paper: ProgRouter: Online Progress-Guided Orchestration for Multi-Agent LLM Workflows under Quality-Cost Tradeoffs
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25936v1
+[INFO] Extracted paper: Multi-Granularity Context-Enhanced RAG over Multimodal Knowledge Graphs
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25935v1
+[INFO] Extracted paper: VoiceMem: Streaming Dual-Brain Memory for Real-Time Interaction
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25934v1
+[INFO] GitHub stars fetched for fredrrom/connections
+[INFO] Extracted paper: Imitation Learning for Connection-Tableau Construction
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26226v1
+[INFO] Extracted paper: How Robust Are Automated Fact-Checking Systems? A Cross-Benchmark Evaluation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25933v1
+[INFO] Extracted paper: Quantitative Analysis of $\u03c9$-Regular Robust MDPs
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26225v1
+[INFO] Extracted paper: LivingRAG: Augmenting Graph RAG with Experience
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25927v1
+[INFO] Extracted paper: PANDA - Prototype-Anchored Alignment for Partially Unpaired Multimodal Learning, with Applications to Alzheimers MRI and TCGA Pathology
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25926v1
+[INFO] Extracted paper: Candidate supply and answer selection shape the value of LLM judging in multi-agent systems
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25922v1
+[INFO] Extracted paper: LLM Agents for Time-Series: A Survey
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25920v1
+[INFO] Extracted paper: One Symptom, Three Levers: A Critical Review of On-Policy Self-Distillation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25917v1
+[INFO] Extracted paper: A Statistical Audit of Physical AI Benchmark Redundancy
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25897v1
+[INFO] GitHub stars fetched for shenye7436/SciMIF
+[INFO] Extracted paper: SciMIF: Understanding Multimodal Instruction Following in Scientific Domains
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25855v1
+[INFO] GitHub stars fetched for siri-rouser/TAU-Agent
+[INFO] Extracted paper: TAU-Agent: An Agentic Retrieval-Augmented Framework for Traffic Anomaly Understanding
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25846v1
+[INFO] Extracted paper: Agent Mesh: Reliability Primitives for Non-Idempotent Agent Delegation - Identity Adequacy and Evidence Adequacy
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25841v1
+[INFO] Extracted paper: Why ML-based cough models do not generalize: a systematic cross-dataset evaluation for tuberculosis screening
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25835v1
+[INFO] Extracted paper: Formal, Executable and Explainable Runtime Monitoring of Spoken Air Traffic Control Operational Procedures
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25832v1
+[INFO] Extracted paper: Query-Side Attacks on GNN-Based KGQA: Tracing Failures from Entity Linking to Answer Generation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25826v1
+[INFO] Extracted paper: Towards A Unified Information Bottleneck Framework for Time Series Explanations
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25777v1
+[INFO] Extracted paper: Repair or Resample? Rethinking Failure Debugging in LLM Multi-Agent Systems
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25776v1
+[INFO] Extracted paper: Choose Your Game Wisely: Measuring Game-Theoretic Structures in Real-World Vehicle Interactions
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25775v1
+[INFO] Extracted paper: Code World Model: Coding Agent as World Brain
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25768v1
+[INFO] Extracted paper: Unlocking Multimodal Protein Language Models at Inference Time
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25761v1
+[INFO] GitHub stars fetched for Future-IQA/CO-AID
+[INFO] Extracted paper: When Composition Doesn't Add Up: Humans Identifying Defects in AI-Generated Images
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25756v1
+[INFO] Extracted paper: Missing the Butterfly and Predicting the Past: Features or Bugs of Accurate AI Weather Models?
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25738v1
+[INFO] Extracted paper: LocalLSTC: A Long Short-Term Control Architecture for Locally Deployed GUI Agents
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25735v1
+[INFO] Extracted paper: Unfolding Scientific Papers into Multi-Turn Generation Trajectories for Continued Pre-Training
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26222v1
+[INFO] Extracted paper: EVOMAL: Self-Poisoning in Self-Evolving Coding Agents
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26221v1
+[INFO] Extracted paper: TailSFT: Filtered Fine-Tuning Improves Post-Training Performance
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25723v1
+[INFO] Extracted paper: Skill Issue: Are Skills Language-Invariant in LLMs?
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25717v1
+[INFO] Extracted paper: VINCENT: Validated Interaction Network for Cross-drug Explanation of Therapeutics
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25710v1
+[INFO] Extracted paper: ToST: A Tree-of-Thought Socratic Teaching Framework for Multi-Path Guidance and Parallel Thinking
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25693v1
+[INFO] Extracted paper: Beam Search, Self-Consistency, and the Limits of Inference-Time Scaling for Grammar-Constrained Text-to-SQL in Small Language Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26218v1
+[INFO] Extracted paper: NeuronFuzz: Safety Neuron Guided Fuzzing for LLM Safety Evaluation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25677v2
+[INFO] Extracted paper: MeMark: Membrane-Space Watermarking for Spiking Neural Networks
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25667v1
+[INFO] Extracted paper: MoganBert-TR: A Turkish Encoder Foundation Model Trained from Scratch with a CLM-to-MLM Curriculum
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25663v1
+[INFO] Extracted paper: When RAG Fails to Equalize: Geo-bias in Factual Question Answering over Public Companies
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25661v1
+[INFO] Extracted paper: Difficulty-Aware Sample Allocation for Adaptive Data Augmentation in Semantic Segmentation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25660v1
+[INFO] Extracted paper: Unsupervised Anatomical Feature Learning via Diffusion Models: Enhanced Medical Image Segmentation with Denoising Diffusion Probabilistic Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25657v1
+[INFO] Extracted paper: Pointing the Way, Hiding the Destination: Practical Private Dense Retrieval at Scale
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25655v1
+[INFO] Extracted paper: It's a matter of timescale: non-linear utility in successor features and multi-objective planning and learning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25654v1
+[INFO] GitHub stars fetched for sydches/yuj
+[INFO] Extracted paper: Same Model, Different Harness: Different Coding-Agent Results
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25646v1
+[INFO] GitHub stars fetched for RossFW/Paper2-Prompt-Sensitivity-of-Generative-Agents
+[INFO] Extracted paper: Prompt Sensitivity of Generative Agents: Evidence from an Epidemic Model
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25641v1
+[INFO] Extracted paper: Unmatched Does Not Mean False: Incomplete Reference Sets Can Reverse Calibration Rankings in Open-Ended Theory-of-Mind Tracking
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25623v1
+[INFO] Extracted paper: From General Agents to RCA Experts: A Self-Evolving Harness for Root Cause Analysis
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25621v1
+[INFO] Extracted paper: Reconstructing the Right Episode: Evaluating Interleaved Conversational Memory Beyond Long Context
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25601v1
+[INFO] Extracted paper: Data Citation for Large Language Models: A Challenge
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25592v1
+[INFO] Extracted paper: Leveraging Inter-object Affordances for Efficient Planning in Contact-rich Tasks
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25581v1
+[INFO] Extracted paper: AI Slop and Hallucinations in Vulnerability Assessment: A Survey on Reasoning Failures and Trustworthy Mitigation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25580v1
+[INFO] Extracted paper: Think-Probe-Respond: Improving Large Language Models as Judges of Research Idea Novelty
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25577v1
+[INFO] Extracted paper: Narcissus: Program Synthesis Using Context-Aware LLM Approximations
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25575v1
+[INFO] Extracted paper: LDAC-Net: A Learnable Multi-Lag Differencing Attention-Convolution Network for Drift-Robust Recognition with Low-Cost MOX Gas Sensors
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25572v1
+[INFO] GitHub stars fetched for zhngstl/new_facts_forgetting
+[INFO] Extracted paper: Learning New Facts with QLoRA: An Acquisition-Retention Frontier
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25569v1
+[INFO] Extracted paper: Are Concept Bottleneck Models Effective as Decision-Support Systems?
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25568v1
+[INFO] Extracted paper: PolyMemDB: A Polyglot Database System for AI Memory Management
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25564v1
+[INFO] Extracted paper: Using profiles of cognitive capability to assess AI suitability for workplace tasks
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25559v1
+[INFO] Extracted paper: A Dual-Transformer for Multi-Camera View Recommendation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25553v2
+[INFO] Extracted paper: A Hierarchical Synergistic Deep Learning Framework Integrating Composition, Structure, and Ionic Transport for Solid-State Electrolyte Discovery
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25550v1
+[INFO] Extracted paper: V-Rubrics: Visual Faithfulness via Rubric-Based Reinforcement Learning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25547v1
+[INFO] Extracted paper: ConfAL-WM: Confidence-Guided Active Learning for Action-Conditioned World Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25543v1
+[INFO] Extracted paper: Dissonance Spectrum explicitly models perceptual frequency interactions for better music understanding
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25536v1
+[INFO] Extracted paper: Controllable Affective Generation via Latent Vector Steering
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25518v1
+[INFO] Extracted paper: MLLMCLIP: Feature-Level Distillation of MLLM for Robust Vision-Language Representations
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25500v1
+[INFO] Extracted paper: Syn2Logic: End-to-End Neuromorphic Design Automation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25495v1
+[INFO] Extracted paper: Physics-Informed Foresight Pruning for Sparse PINN Solvers of Nonlinear PDEs
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25490v1
+[INFO] Extracted paper: A Hybrid Usability Approach for Rating Evaluation of M-Commerce Applications
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25486v1
+[INFO] Extracted paper: A Tendon-Driven Five-Fingered Hand with Distributed Tactile Perception for Dexterous Manipulation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25480v1
+[INFO] Extracted paper: When Stale Constraints Go Unchecked: Budgeted Verification Failures in Inherited Agent Memory
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25479v2
+[INFO] Extracted paper: AdaVDR: Adaptive Tool Use and Reflection for Video Deep Research
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25466v1
+[INFO] Extracted paper: Goodput Maximization for Large Language Model Edge Inference: A Two-Phase Maskable PPO Approach
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25465v1
+[INFO] Extracted paper: Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25460v1
+[INFO] GitHub stars fetched for rsr1123/CrossMambaTuning
+[INFO] Extracted paper: CrossMambaTuning: Synergistic Spatial and Cross-Layer Adaptation for Machine Vision Compression
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25457v2
+[INFO] GitHub stars fetched for ZhiyuanLi218/Caskg
+[INFO] Extracted paper: CaSKG: Counterfactual-Causal Skill Graphs for Scalable Agent Skill Retrieval
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25452v1
+[INFO] Extracted paper: Pose-Anchored Optical Flow for Low-Latency Human Action Anticipation in Human-Robot Teaming
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25449v1
+[INFO] Extracted paper: 4DStreamCtrl: Interactive Video Generation with Online 4D Control
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25435v1
+[INFO] Extracted paper: DeCO: Discriminative Evidence Composition for Fine-Grained Dataset Distillation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25429v1
+[INFO] Extracted paper: MACGen: Toward Functionally Correct and Secure Code Generation via Multi-Agent Collaboration
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25428v1
+[INFO] Extracted paper: Homo-RAG: Homology-Guided Retrieval-Augmented Generation for Cross-Species Gene Function Prediction
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25425v1
+[INFO] Extracted paper: MMJailBench: A Factorized Benchmark for Disentangling Multimodal Jailbreak Vulnerabilities
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25417v1
+[INFO] Extracted paper: VGA-BenchV2: An Expanded Unified Benchmark and Multi-Model Framework for Evaluating Video Aesthetics and Generation Quality
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25410v1
+[INFO] Extracted paper: Automatic weld seam segmentation for industrial quality control: a comparison of RGB and polarimetric imaging with CNN and transformer architectures
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25401v1
+[INFO] Extracted paper: PonsRAG: A Pons-Inspired RAG Bridging Cognitive Islands for Coordinated Long Narrative Reasoning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25399v1
+[INFO] GitHub stars fetched for paulrosu11/training-auditing-agents-public
+[INFO] Extracted paper: Training Alignment Auditors via Reinforcement Learning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26209v1
+[INFO] Extracted paper: Token-Oriented Semantic Communication with Pretrained Vision Transformers
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25390v1
+[INFO] Extracted paper: RotDroid: Cross-Orientation State Equivalence Testing for Detecting GUI Rotation Bugs in Android Apps
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25382v1
+[INFO] Extracted paper: DCGC: Draft-Conditioned Global Correction for Complex Reasoning with Masked Diffusion Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25379v1
+[INFO] Extracted paper: Fairness Invariants: A Relational Approach to Explaining and Mitigating Fairness Bugs
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25370v1
+[INFO] Extracted paper: Can your AI agent be cheaper? Investigating the effects of task specifications on token spend in agentic coding tasks
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25358v1
+[INFO] Extracted paper: Saliency-Depth Conditioning for Zero-Shot Segmentation of Communication-Tower Components in Cluttered UAV Imagery
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25354v1
+[INFO] Extracted paper: PIVOT: A Multi-Trajectory Dataset and Testbed for Pose, Intrinsics, and Novel Viewpoint Evaluation in Real-World 3D Reconstruction
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25344v1
+[WARNING] Source not found: https://api.github.com/repos/margotyjx/MathAdv.git
+[WARNING] GitHub repository unavailable: https://github.com/margotyjx/MathAdv.git
+[INFO] Extracted paper: MathAdv: What Theorem Provers Know, Reason, Formalize, and Generalize
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25329v1
+[INFO] Extracted paper: Paint What You See: Benchmarking Dexterous Visual Tool Use in Multimodal Agents
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25327v1
+[INFO] GitHub stars fetched for Yi1-Chen/FRAG
+[INFO] Extracted paper: Distance Is Not Enough: Forget-Retain Alignment Gap Predicts LLM Relearning Robustness
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25325v1
+[INFO] Extracted paper: Where vs What: Decomposing Structural and Content Failures in LLM-Generated Structured Outputs
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25321v1
+[INFO] Extracted paper: Refusal geometry reflects refusal training: diverse refusal prefixes can raise stable rank and weaken refusal vector ablation attacks
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25291v1
+[INFO] Extracted paper: CoRE: Weakly Supervised Coarse-to-Fine Risk Evidence Learning in Driving Videos
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25289v1
+[INFO] Extracted paper: Escaping Low-Dimensional Overlap: Multi-Task Model Merging via High-Dimensional Sparse Disentanglement
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25286v1
+[INFO] Extracted paper: Q&A or Document-Based? The Effects of Interface Type on How Screen Reader Users Access Interconnected Documents
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25285v1
+[INFO] Extracted paper: CRAMER: Control via Request-Aware Masking for Editing Recommenders
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25284v1
+[INFO] Extracted paper: Learning What to Share and What to Personalize: Hierarchical Strategy Co-Evolution for Agent Memory
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25282v1
+[INFO] Extracted paper: Adaptive Triggering for Bias Correction in LLM Reasoning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25277v1
+[INFO] Extracted paper: InsightSR: Refining Symbolic Regression Search Spaces via Parallel Semantic and Structural LLM Guidance
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25275v1
+[INFO] Extracted paper: LLMscope: Extracting LLM Assets from Edge AI Chips via Optical Probing
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25261v1
+[INFO] Extracted paper: Generative Action-Chunk Sampling for Adaptive Stiffness Control in Physical Human-Robot Collaboration
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25258v1
+[INFO] Extracted paper: Combining Self-Embedding Audio Watermarking with Ultra-Low-Bitrate Neural Codecs
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25251v1
+[INFO] Extracted paper: SHSP: Structure-Aware Hierarchical Solution Prediction for Mixed-Integer Linear Programming
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25241v1
+[INFO] Extracted paper: Routed Graph Handoff: Adaptive Format Selection for Multi-Agent LLM Delegation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25236v1
+[INFO] Extracted paper: A Training-Free Proactive Defense Against Partial Speech Manipulation via Self-Embedding Steganography
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25231v1
+[INFO] Extracted paper: BixBench3: Benchmarking AI agents on research-study-scale computational biology tasks
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26204v1
+[INFO] Extracted paper: FinRiskAtlas: Decision-Aligned Evaluation of Large Language Models for Financial Risk Review
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25220v1
+[INFO] Extracted paper: Neither Precision Nor Architecture Alone: Controlled Tests of Failure Remedies for Physics-Informed Neural Networks
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25217v1
+[INFO] Extracted paper: ADeptS-Bench: Measuring the Trustworthiness of Computer Use Agents Across Devices
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25215v1
+[INFO] Extracted paper: Hierarchical MoE for Multi-Modal ILD Diagnosis
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25202v1
+[INFO] Extracted paper: PhaseShift: Topology-Aware Data Harmonization and Model Consolidation Across Signalized Intersections
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25200v1
+[INFO] Extracted paper: A Few Pages of Markdown: Committed AI Configuration and Lower Quality Cost after Coding-Agent Adoption
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25199v1
+[INFO] Extracted paper: FLARE: Verifying MILP Reformulations with LLM-Based Theorem Proving
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25198v1
+[INFO] Extracted paper: Neural-Bayesian Structure Learning for Discrete Choice Modeling
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25180v1
+[INFO] Extracted paper: What Do Medical Vision-Language Models Learn in Radiology? Transfer, Alignment, and Source-Proxy Leakage Under Distribution Shift
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25178v1
+[INFO] Extracted paper: LLM-Driven, Datasheet-Aware Automated Hardware Compatibility Verification for Early-Stage, Pre-Schematic Embedded System Design
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25177v1
+[INFO] Extracted paper: Federation Is Nearly Free, Reasoning Is Not: Tradeoffs for AI Co-Scientists in Protein Characterization Workflows
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25163v1
+[INFO] Extracted paper: SPECMINE: A Large-Scale Corpus of Spec-Driven Development Artifacts
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25158v1
+[INFO] Extracted paper: AudioLens: Multi-Perspective Speech Clustering with Reasoning Audio-Language Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25152v1
+[INFO] Extracted paper: Rare Diseases, Common Dilemmas: LLMs Prioritize Equal Resource Distribution over Patient Benefit in Decision-Making
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25148v1
+[INFO] GitHub stars fetched for deepsteer/deepsteer
+[INFO] Extracted paper: Output Dilution: Redundant but Fragile Representations in MoE Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25142v1
+[INFO] Extracted paper: Self-Explanation Tutor for Active Study of CS1 Worked Examples
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25138v1
+[INFO] Extracted paper: Lightweight Machine Learning-Driven Monocular Sidewalk Path Extraction for Embedded Micromobility Navigation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25128v1
+[INFO] Extracted paper: Learning Mixtures of Plackett-Luce Models for Multi-Objective Alignment
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25123v1
+[INFO] GitHub stars fetched for pgrindehollevik-harvard/hyperbolic
+[INFO] Extracted paper: Hyperbolic Latent Geometry for Tree-Structured Prototype Networks: A Local-vs-Global Trade-off
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25118v1
+[WARNING] Source not found: https://api.github.com/repos/YuqiChen4188/Steering-Tool-Use-Propensity
+[WARNING] GitHub repository unavailable: https://github.com/YuqiChen4188/Steering-Tool-Use-Propensity
+[INFO] Extracted paper: Tunable Tool-Call Rates in LLM Agents via Representation Steering
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25116v1
+[INFO] Extracted paper: SelfGraphRAG: Bridging the Supervision Gap in Graph-Based RAG with Synthetic QA Generation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25114v1
+[INFO] Extracted paper: Belief Cascades Drive Persuasion in LLM Agent Networks
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25100v1
+[INFO] Extracted paper: SkyDrive: Learning to Drive in a New City from Aerial Traffic Monitoring
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25097v1
+[INFO] Extracted paper: Toward Machine Learning with the Unit as a Primitive: Learning from Unit-Linked Events
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25096v1
+[INFO] Extracted paper: Drift Variation Autoencoder: Unifying Generation and Representation Learning through Conditional Posterior Flow Matching
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25091v1
+[INFO] Extracted paper: When Does Context Routing Help? A Systematic Study of Multi-Modal Fusion in Time Series Forecasting
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25088v1
+[INFO] Extracted paper: Bayesian Flow Networks for Offline Trajectory Planning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25080v1
+[INFO] Extracted paper: Can You Trust Frozen Hematology Foundation Models under Acquisition Shift?
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25073v1
+[INFO] GitHub stars fetched for fuzzingbrain/FuzzingBrain-Bench
+[INFO] Extracted paper: FuzzingBrain-Bench V1: Evaluating Open-Ended Bug Discovery by LLMs
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25071v1
+[INFO] Extracted paper: GRAPE: Gradient Refinement and Progress-Aware Exploitation for Query-Efficient High-Dimensional Bayesian Optimization
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25067v1
+[INFO] Extracted paper: Flower Hub: A Reproducible Benchmarking Platform for Federated Learning in Simulation and Deployment
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25062v1
+[INFO] Extracted paper: NVExplain: Explaining Time Series Forecasting with Latent Trajectory Analysis and Structure-Preserving Surrogates
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25061v2
+[INFO] Extracted paper: The Von-Neumann State-Space Transformer for neural decoding
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25054v1
+[INFO] Extracted paper: Auto-Policy, not Auto-Skill: Compiled Agent Skills for the Physical World
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25053v1
+[INFO] Extracted paper: PhysElite: How Far Are LLMs from Solving Olympiad-Level Physics Problems?
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25050v1
+[INFO] Extracted paper: Understanding the Energy Scaling of Large Language Model Inference Across Context Lengths and Attention Architectures
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25039v1
+[INFO] Extracted paper: Towards Reliable, Generalizable, and Specific In-Context Knowledge Editing via Multi-Objective Reinforcement Learning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25037v1
+[INFO] GitHub stars fetched for mindbench-ai/healthbench-psych
+[INFO] Extracted paper: HealthBench-Psych: A Mental Health Subset of OpenAI's HealthBench
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25023v1
+[INFO] GitHub stars fetched for menghui-zhou/DeMMO
+[INFO] Extracted paper: DeMMO: Longitudinal and Cross-Disease Modelling of Digital Mobility Outcomes via Multi-Task Learning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.25022v1
+[INFO] Extracted paper: SimVerity: When Does Simulated Agent Success Survive Physical Deployment?
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24988v1
+[INFO] Extracted paper: DataKernelBench: Can LLMs Optimize Database Queries on GPUs?
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24987v1
+[INFO] Extracted paper: FLINT: Efficiently Leveraging High Bandwidth Flash for Capacity-Scalable LLM Inference Acceleration
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24876v1
+[INFO] Extracted paper: SPECTRA: Subspace-Preserving Embedding Calibration, Transport, and Replay for Fully Few-Shot Class-Incremental Audio Classification
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24870v1
+[INFO] Extracted paper: CVE-SAI: Counterfactual Visual Evidence-Guided Selective Attribute Indexing for Risk-Controlled E-commerce Search
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24846v1
+[INFO] Extracted paper: Retrieve, Match, Escalate: Accurate and Scalable Product Linking with VLM-Distilled Cross-Encoders and Agentic VLMs
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24845v1
+[INFO] Extracted paper: ARISMA: Guidelines for AI- and LLM-Assisted Systematic Reviews, Scoping Reviews, and Mapping Studies
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24842v1
+[INFO] Extracted paper: LifePlanner: Evaluating LLM Agents for Geo-spatial Planning with Social Media Data
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24986v1
+[INFO] GitHub stars fetched for amirtaherin/hydra
+[INFO] Extracted paper: Hydra: Phase-Aware Workload Characterization of LLM Inference across Edge SoC Generations, Backends, and Quantization Levels
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26200v1
+[INFO] Extracted paper: LAION-BVD: A 10-Million-Hour Open Video Dataset for Multimodal Pre-training
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24825v1
+[INFO] Extracted paper: SPO++: Stream-Aligned Policy Optimization for Asynchronous Agentic RL
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24824v1
+[INFO] Extracted paper: FedV-KGQA: Multi-Hop Question Answering over Vertically Partitioned Knowledge Graphs
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24982v2
+[INFO] Extracted paper: Does Fine-Tuning Undo Activation Steering? Behavioural Recovery Without Weight-Edit Reversal
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24810v1
+[INFO] Extracted paper: D$^3$-MOPD: Adaptive Dynamic Domain ScheDuling for Efficient Multi-Teacher Distillation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24979v1
+[INFO] Extracted paper: A Primer on Computational Semantics for Artificial Intelligence Systems
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24807v1
+[INFO] Extracted paper: Solving Robust POMDPs with Omega-regular Objectives via Partially Observable Stochastic Games
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24804v1
+[INFO] Extracted paper: GameWAM: A World Action Model for Video Games
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24794v1
+[INFO] GitHub stars fetched for Gen-Verse/Recuris
+[INFO] Extracted paper: Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24790v1
+[INFO] Extracted paper: Automatic Model Card Generation Using an LLM
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24777v1
+[INFO] Extracted paper: FrontierChallenge: Evaluating Scientific Workflow Completion
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24771v1
+[INFO] Extracted paper: Reading Is Not Using: Retrieval, Judgment, and the Design of AI Financial Research Workflows
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24768v1
+[INFO] Extracted paper: Constrained Entity Selection under Partial Knowledge for LLM-Based Knowledge Graph QA
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24764v1
+[INFO] Extracted paper: StarHarness: Evolving Harnesses with Stratified Search for Enterprise Environments
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24762v1
+[INFO] Extracted paper: CAFE: Self-Improving Search Agents Need Co-Evolving Feedback
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24758v1
+[INFO] Extracted paper: Strictly Causal Streaming Video Anomaly Detection with a Theoretically-Grounded State-Space Core
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24753v1
+[INFO] Extracted paper: Right Diagnoses, Decorative Reasoning:A Perturbation Audit of Medical Chain-of-Thought
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24748v1
+[INFO] Extracted paper: Unsupervised Post-Training of Foundation Models: A Survey
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24735v1
+[INFO] Extracted paper: A Dual-Dimensional LLM Framework for Automated Item Incidental Content Similarity Analysis in Large-Scale Assessments
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24727v1
+[INFO] Extracted paper: The RAT: A Unified Bayesian Model for RAG Evaluation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24721v1
+[INFO] Extracted paper: Score-Based Ideal Observer Approximation via Denoising Score Matching for Signal-Known-Exactly Detection Tasks
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24715v1
+[INFO] Extracted paper: Evidence Blindness in Direct Corpus Interaction: Persistent Navigation with AtlasNav
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26199v1
+[INFO] Extracted paper: Method, Mind, and Morality: How People Make Sense of Artificial Intelligence
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24713v1
+[INFO] Extracted paper: Ensemble of Convolutional Neural Networks for StrokePrediction: Towards Improved Diagnostic Accuracy
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24712v1
+[INFO] Extracted paper: RACE: Scalable Statistical Estimation of Functional Consistency in LLM Neurons
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24696v1
+[INFO] Extracted paper: StepGuard: Learning Step-Level Guardrails with Scalable Supervision and Safety-Utility Balancing
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24691v1
+[INFO] Extracted paper: Beyond Uniform Local Isometry and Topology: FactoMap for Disentangled Representations
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24664v1
+[INFO] GitHub stars fetched for minnesotanlp/meta-n
+[INFO] Extracted paper: Meta$^n$: Recursive Self-Improvement through Emergent Depth
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24662v2
+[INFO] GitHub stars fetched for c3n-group/efficient-eeg-adapt
+[INFO] Extracted paper: Parameter-Efficient Self-Supervised Adaptation for EEG-FM under Fixed Computational Budgets
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24658v1
+[INFO] Extracted paper: Benchmarking AI Agents for Hardware Design Automation via MCP Tool Calling
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24650v2
+[INFO] Extracted paper: Maia 200: A Software Defined Dataflow System for Large-scale AI Acceleration
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24974v1
+[INFO] Extracted paper: Enhancing Bayesian Optimization and Active Learning Through Kernel Diversity
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26198v1
+[INFO] Extracted paper: Constrained Hyperparameter Optimization for Streaming Data
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24644v1
+[INFO] Extracted paper: Confident at the moment of action: belief miscalibration in LLM play under hidden information
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24632v1
+[INFO] Extracted paper: Parason: Revealing Subtask and Trial Parallelism in LLM Reasoning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24597v1
+[INFO] Extracted paper: Deep Learning Super Resolution for Satellite Cloud Mask Downscaling
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24585v1
+[INFO] Extracted paper: Lifted Model Construction under Approximate Commutativity
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24582v1
+[INFO] GitHub stars fetched for LeapLabTHU/OPDVR
+[INFO] Extracted paper: On-policy Distillation with Verifiable Reward
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24574v1
+[INFO] Extracted paper: Taming foundation model with invariance-oriented pre-training for broad-spectrum EEG analysis across signal-level, brain-state, and brain-health tasks
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24571v1
+[INFO] Extracted paper: Causal Modelling of Support Interventions for Student Competency Assessment
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24570v1
+[INFO] Extracted paper: A Literate Programming Environment for Human and Machine Agents
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24569v1
+[INFO] Extracted paper: Agentic AI for operating scientific instruments for nanoscale characterization
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24568v1
+[INFO] Extracted paper: The Invisible Editorial Layer: Formalizing Undisclosed Inference-Time Steering, Probability Placement, and the Attribution Problem in Deployed Language Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24559v1
+[INFO] Extracted paper: Simthesizer: An Agent-Driven Simulation Framework for LLM Serving Systems
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24555v1
+[INFO] Extracted paper: Clearing the Underbrush: AI-Enhanced RF Interference Suppression
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24551v1
+[INFO] Extracted paper: $\texttt{findr}$: Transparent and Fair Credit Risk Decisions through Semi-Structured Regressions
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24545v1
+[INFO] Extracted paper: Pivot-and-Station Multi-Agent Path Finding: Solvability, Complexity, and Algorithms
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24534v1
+[WARNING] Source not found: https://api.github.com/repos/tusu-code/20260121-icml2026-2.git
+[WARNING] GitHub repository unavailable: https://github.com/tusu-code/20260121-icml2026-2.git
+[INFO] Extracted paper: PhysMLLMs: Spatial Priors for Unified Referring Segmentation and Grounded Reasoning of Images and Videos
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24524v1
+[INFO] Extracted paper: Joint Optimization of Tool Creation and Use for Large Language Model Agents
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24509v1
+[INFO] Extracted paper: FraudBench: Protocol-Sensitive Benchmarking of Adversarial Robustness for Financial Risk Assessment
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24500v1
+[INFO] Extracted paper: EviDx: Evidence-Aware Active Diagnosis with Scaffolded LLM Agents
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24492v1
+[INFO] Extracted paper: Discovering Adaptive Transmission Programs for Collective Innovation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24482v1
+[INFO] Extracted paper: LumiXAI: A Modular Full-Stack Framework for Feature Attribution
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24471v1
+[INFO] Extracted paper: When "Must" Becomes "Maybe": Constraint Weakening in LLM Agent Workflows
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24470v1
+[INFO] Extracted paper: COCI: Conference Organisers and Content Identifier
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24467v1
+[INFO] Extracted paper: StrokeGuard: A Multi-Agent Guided System for Prehospital Stroke Assessment
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24462v1
+[INFO] Extracted paper: Neurosymbolic Alignment for Physiologically-Safe Clinical Language Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24441v1
+[INFO] GitHub stars fetched for p0lcAi/Across-the-Loss-Landscape
+[INFO] Extracted paper: Across the Loss Landscape with Progressive Growth
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24436v1
+[INFO] Extracted paper: Beyond Static Interpretability: Anticipating Post-SFT Mechanisms from Pre-SFT Parameters for Better Tuning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24427v1
+[INFO] Extracted paper: Implicit Q-learning-bootstrapped ant colony optimization for maritime moving-target observation scheduling with agile satellites
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24973v1
+[INFO] Extracted paper: When Do Supervised UQ Ensembles Improve LLM Hallucination Detection? A Robustness Study
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24419v1
+[INFO] Extracted paper: HMGCLIP: Heterogeneous Multi-Granularity Contrastive Learning for E-commerce Representation Learning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24411v1
+[INFO] Extracted paper: Scalable and Versatile Identification for Hierarchical Structural Causal Models: A New Look at Project STAR
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24400v1
+[INFO] Extracted paper: Evaluating Deep Multivariate Imputation Models on Wearable Device Data
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24386v1
+[INFO] Extracted paper: Mahalanobis-Based Multi-Head Attention for Complex State Propagation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24384v1
+[INFO] Extracted paper: A Behavior-Guided Online Probabilistic Forecasting Method for Electric vehicle Charging Loads
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24369v1
+[WARNING] Source not found: https://api.github.com/repos/Czzzk/Staggering-the-Peaks
+[WARNING] GitHub repository unavailable: https://github.com/Czzzk/Staggering-the-Peaks
+[INFO] Extracted paper: PeakBench: Benchmarking Resource-Aware Tool Invocation in LLM Agents
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24368v2
+[INFO] Extracted paper: Reinforcement Learning-Guided Evolutionary Policy Optimization for Preference-Adjustable Heterogeneous Agile Earth Observation Satellite Scheduling
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24361v1
+[INFO] Extracted paper: Partial Identification under Causal Orders by Linear Programming
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24358v1
+[INFO] Extracted paper: Multilevel Fair Allocation under Additive Preferences
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24354v1
+[INFO] Extracted paper: A Judge Should Know What Changed:Construct Validity for LLM-as-a-Judge Evaluation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24350v1
+[INFO] Extracted paper: Equivariant Covariance Tensors: Guaranteed SPD Uncertainty for Tensor-Valued Geometric Learning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24342v1
+[INFO] Extracted paper: Resource-Efficient Pruning for Transformer via Low-Rank Importance Estimation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24340v1
+[INFO] Extracted paper: Do Recipes Have Personas? Characterizing and Generating Creator Style in Attributed Procedural Graphs
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24338v1
+[INFO] Extracted paper: From State to Action: OODA-Tool for Reliable Multi-Turn Tool Use
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24325v1
+[INFO] Extracted paper: Markerless Pose Estimation for Resistance Training Technique Assessment
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24319v1
+[INFO] Extracted paper: Adaptive Influence Graphs for Failure Attribution in Multi-Agent Systems
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24314v1
+[WARNING] Source not found: https://api.github.com/repos/Czzzk/Resispec
+[WARNING] GitHub repository unavailable: https://github.com/Czzzk/Resispec
+[INFO] Extracted paper: ResiSpec: Enhancing Multi-Candidate Speculative Sampling via Residual Distribution Shaping
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24310v1
+[INFO] Extracted paper: The Handoff Tax: Continuing Non-Native Trajectories in LLM Agents
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24304v1
+[INFO] Extracted paper: OPDSearch+: On-Policy Distillation with RL Refinement for Search-Augmented Reasoning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24302v1
+[INFO] Extracted paper: SonarLLM: A Native Sonar--Optical Multimodal Large Language Model for Underwater Perception
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24300v1
+[INFO] Extracted paper: FARCA: Fact-Aligned Reliability-Aware Credit Assignment for Reinforcement Learning with Factual Supervision
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24291v1
+[INFO] Extracted paper: Not All Tokens Are Equal: Region-Aware Consistency Repair of Backdoors in MLLMs
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24275v2
+[INFO] Extracted paper: Selective Regenerative Decoding: Trajectory-Level Intervention for Inference-Time Reasoning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24274v1
+[INFO] Extracted paper: Mind the Student: Behavioral and Contextual Cues for Automated Engagement Prediction in Online Learning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24273v2
+[INFO] Extracted paper: Benchmarking LLM Judges for Voice-Agent Evaluation: Reliability, Calibration, and Human Oversight
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24263v1
+[INFO] GitHub stars fetched for rodriguezmarc/conditional-cmr
+[INFO] Extracted paper: Metadata-Aware Adaptation of a Generative Foundation Model for Conditional CMR Synthesis
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24258v1
+[INFO] GitHub stars fetched for fmarrabal/miuracognitive
+[INFO] Extracted paper: Can a Dynamic Internal Field Govern a Transformer's Cognition? Certifiability, not Superiority, in Homeostatic Compute Control
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24252v1
+[INFO] Extracted paper: SENSESHIFT: Continuous Sentiment-Controlled Text Generation via Encoder-based Mask Infilling
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24237v1
+[INFO] Extracted paper: Contrastive Branch Policy Optimization
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24232v1
+[INFO] Extracted paper: Real-World Knowledge-Guided Change Data Synthesis for Remote Sensing
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24228v1
+[INFO] Extracted paper: RePolicy: Reinforcement Learning for Safety-Policy Invocation in Agent Safeguards
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24218v1
+[INFO] Extracted paper: VideoHarness-RSI: Recursive Harness Self-Improvement for Long-Video Understanding with Frozen Vision-Language Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24214v1
+[INFO] Extracted paper: ReproAgent: Contract-Guided Paper-to-Code Reproduction
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24966v1
+[INFO] Extracted paper: Matched Excess-Outranker Regularization for Candidate-Set Interference in Continual Knowledge Graph Embedding
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24192v1
+[INFO] Extracted paper: Eating for a Sustainable Planet: Personalized Sustainable Diet Recommendation via Constraint-Aware Decision-Making Modeling
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24191v1
+[INFO] Extracted paper: STRIVE: Multi-Agent Structured Temporal Reasoning with Integrated Verification for Longitudinal Radiology Report Generation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24188v1
+[INFO] Extracted paper: Beyond Accuracy: A Dual-Judge Evaluation Protocol for Vision-Language Models in Legally Grounded Tasks
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24176v1
+[INFO] Extracted paper: SA-Bench: Evaluating Semantic Alignment in LLM-Based Paper Reproduction
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24174v1
+[INFO] Extracted paper: TRACE: An Evidence-Grounded Benchmark for Safety Evaluation of Large Reasoning Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24163v1
+[INFO] Extracted paper: Constraint-Guided Enterprise Data Mapping with Large Language Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24160v1
+[INFO] Extracted paper: Preference Data Selection for Mitigating the Alignment Tax in Large Language Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24156v1
+[INFO] Extracted paper: MetaRAG: Belief-Action Aligned Policy Optimization for Agentic RAG
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24154v1
+[INFO] Extracted paper: 'Ghaib in Translation' aka Unseen Harm: Measuring Cross-Script Safety Inconsistency with 'Missed-in-Urdu' Scores in LLM Hate Speech Detection
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24962v1
+[INFO] Extracted paper: Targeting the Attention Heads Behind Object Hallucination in LLaVA
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24135v2
+[INFO] Extracted paper: Paritok-4B: Intent-Conditioned Context Compression for Coding Agents
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24133v1
+[INFO] Extracted paper: Evaluating Multiple LLM Generations with Validated Task Coverage
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24132v1
+[INFO] Extracted paper: Task-Adaptive Rubrics for GUI Reward Modeling
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24130v1
+[INFO] GitHub stars fetched for wjjln/Tlow
+[INFO] Extracted paper: Tlow: Flow-based Item Tokenizer for Recommendation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24119v1
+[INFO] Extracted paper: Preference Optimization for Non-Verbal Vocalization Synthesis
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24115v1
+[INFO] Extracted paper: OmniJudge or OmniBias? Diagnosing Multimodal Judges through Balanced, Decoupled Lenses
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24114v1
+[INFO] Extracted paper: LLM-Guided Contextual Action Evaluation for Operational Decisions in Industrial Processes
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24113v1
+[INFO] Extracted paper: Robust Code RL via Faulty-Code-Driven Test case Synthesis and Dense Reward Shaping
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24112v1
+[INFO] Extracted paper: Evaluating and Preventing Security Smells in AI-Generated Ansible Code
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24958v1
+[INFO] Extracted paper: PlaceSeek: Human-Centered Geospatial Retrieval of Urban Outdoor Places via Semantic Grounding and Affective Alignment
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24107v1
+[INFO] Extracted paper: From Gradient-Boosted Trees to Deep Recommenders: Practical Lessons from Migrating a Production Customer Support Recommender
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24103v1
+[INFO] GitHub stars fetched for SKKUAutoLab/aic26_mc3dp
+[INFO] Extracted paper: Syn2RealTrack: Bridging the Gap Between Synthetic and Real-World Datasets for Online Multi-View Multi-Target Tracking
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24099v1
+[INFO] GitHub stars fetched for SKKUAutoLab/aic26_cross_city
+[INFO] Extracted paper: Rethinking Pre-Training and Augmentation for Zero-Shot Cross-City Object Detection
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24087v1
+[INFO] Extracted paper: PonderPounce: A Pretrained MLLM as an Episode Context Engine for Robot Control
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24086v1
+[INFO] Extracted paper: TransPhy: Visual In-Context Learning for Physically Grounded Image Editing
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24082v1
+[INFO] Extracted paper: AHEAD: Adaptive Hindsight with Environment-Augmented Distillation for Agentic RL
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24080v1
+[INFO] Extracted paper: MatReplace: A Reference-Free, Conditioning-Aligned Benchmark for Material Replacement in Interior Scenes
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24076v2
+[INFO] Extracted paper: Scalable Question-Centric Text-to-Image Evaluation: Reliable Ranking, Fine-Grained Diagnosis, and Cost-Aware Routing
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24073v1
+[INFO] Extracted paper: ACE: A Self-Correcting Agentic Canvas Editor for Multi-Slide Presentation Automation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24070v1
+[INFO] Extracted paper: Can We Read the Mind of an Audio LLM? A Verbalizable, Multilingual Middle-Layer Workspace
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24069v1
+[INFO] Extracted paper: Structured Frequency-Domain Evidence for LLM-Based Time-Series Anomaly Detection
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24065v1
+[INFO] Extracted paper: Are Android GUI Agents Robust Against Runtime Anomalies? AnTrap: Evaluating Agents in Dynamic Adversarial Environments
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24063v1
+[INFO] Extracted paper: AgentWorld: Personality-Aware Reliability Evaluation for Agentic Information Retrieval
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24048v1
+[INFO] Extracted paper: Poisoning Agentic Alpha: Adversarial Vulnerabilities Across Roles and Architectures in Multi-Agent Trading Systems
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24046v1
+[INFO] Extracted paper: Compression Trinity: Exploring Sparsity, Quantization, and Low-Rank Approximations for LLM Compression
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24042v1
+[INFO] Extracted paper: Mechanistic Circuit Identification for Controllable Data Generation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24041v1
+[INFO] Extracted paper: PARTAB: Partition-Aware Reasoning with Structured Evidence for Scalable Table Understanding
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24039v1
+[INFO] Extracted paper: When Less Is More: An Empirical Study of Minimal Responses in Counseling Dialogues and the Behavior of LLMs
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24033v1
+[INFO] Extracted paper: ORBITALIF: An Efficient Spiking Federated Learning Framework for Onboard Cloud Removal
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24024v1
+[INFO] GitHub stars fetched for mingxuZhang2/EMRB
+[INFO] Extracted paper: EMRB: A Multi-Level Benchmark for Evaluating LLM Reasoning over Raw Electromagnetic Signals
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24022v1
+[INFO] GitHub stars fetched for nadeem-shaikh/llm-self-escalation
+[INFO] Extracted paper: Knowing When to Ask for Help: Bayesian Self-Escalation in Hierarchical LLM Agents
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24020v1
+[INFO] Extracted paper: What Guides the Agent? Adjudicating Unauthorized Behavior via Localizing Behavior-Guiding Instructions
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24017v1
+[INFO] Extracted paper: Hierarchical Skill Retrieval for Data-Efficient Adaptation of Vision-Language-Action Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24015v1
+[INFO] Extracted paper: Beyond Confidence: Test-Time Scaling for Multi-Turn Search Agents via Retrieval Grounding
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24011v1
+[INFO] Extracted paper: IterCAD: Iterative Program Repair for CAD Code Generation from Orthographic Views
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24005v1
+[INFO] Extracted paper: Relative Time Intervals Representation for Word-level Timestamping with Masked Training
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24001v2
+[INFO] Extracted paper: Algorithmic Impact Reveals the Hidden Social Choice Structure of Alignment
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23992v1
+[INFO] Extracted paper: Design-to-Plan: A Large Language Model-Based Multi-Agent Framework for Manufacturing Process Planning from 3D CAD Models and 2D Engineering Drawings
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23986v1
+[INFO] Extracted paper: ChorusTIC: Training-Free Multivariate Time Series Classification via Chorus In-Context Learning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23982v1
+[INFO] Extracted paper: Don't Just Listen, Try Planning: Graph-based Retrieval-Generation Agent for Long-form Audio Meeting Understanding
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23979v1
+[INFO] Extracted paper: WebMCP-Phalanx: Enforcing and Characterizing Trust Boundaries for Browser-Integrated LLM Agents
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23978v1
+[INFO] Extracted paper: Reflection with Action-Induced Visual Differences for Desktop GUI Agents
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23970v1
+[INFO] Extracted paper: The Shadow Price of Intelligence: Quality Degradation in LLM Inference as a Supply Chain Problem
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23965v1
+[INFO] GitHub stars fetched for Wlklk/VisCache
+[INFO] Extracted paper: VisCache: Visual KV Cache Pruning for Efficient Vision Large Language Model Inference
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23962v1
+[INFO] Extracted paper: Incorporating Cognitive Load and Knowledge Transfer for Multi-Domain Knowledge Tracing
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23961v1
+[INFO] Extracted paper: Memory Is Not Always Needed: Characterizing Conditional Memory in Scientific Reasoning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23959v1
+[INFO] Extracted paper: SAGE: From Direct Answering to Evidence-Grounded Inference for Chinese Ancient Document Understanding
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23956v1
+[INFO] Extracted paper: Diverse by Reasoning: Harnessing the Wisdom of LLM Crowds for Future Prediction
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23953v1
+[INFO] Extracted paper: Rules Before Oracles: Auditable, User-Configurable Argument Selection for Deliberative Polling
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23952v1
+[INFO] Extracted paper: When Seeing Is Not Enough: Benchmarking Interactive Visual Grounding in LVLMs
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23943v1
+[INFO] Extracted paper: Evaluating Language Models on Cross-Language Code Functional Equivalence
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23941v1
+[INFO] Extracted paper: Hybrid Semantic Tool Discovery for Enterprise MCP Gateway: Architecture and Implementation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23934v1
+[INFO] Extracted paper: Recursive Agentic Reasoning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23932v1
+[INFO] Extracted paper: NeuronGuard: Robust LLM Safety Alignment via Ablation-Aware Safety Signal Redistribution
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23928v1
+[INFO] Extracted paper: STAIN-FL: Stealthy Targeted Attack Injection with Contextual Triggers in Federated Learning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23922v1
+[INFO] Extracted paper: More GPUs or a Smaller Cache? Tensor Parallelism versus KV Compression for Memory-Bound LLM Serving
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23918v1
+[INFO] Extracted paper: RAGSentinel: Certifiable Geometric Consensus for Robust Retrieval-Augmented Generation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23911v1
+[INFO] Extracted paper: The Empire, Long Divided, Must Unite: Architectural Convergence in Three LLM Agent Harnesses
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23908v1
+[INFO] Extracted paper: Giraffe: A Mapping Architecture from Hidden Text Representations to Visual Embeddings for Efficient Graphic Design
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23906v1
+[INFO] Extracted paper: Data Mixing as Mixture Experiment: Response Surface Methodology and Optimal Design for Large Language Model Pretraining
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23898v1
+[INFO] Extracted paper: Evolutionary Recurrent Decision Model in Developing Adaptive and Maladaptive Behaviors
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23897v1
+[INFO] Extracted paper: PROOF-Gen: From Optimized Data to Better Distillation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23895v1
+[INFO] Extracted paper: Retrieval-augmented generation vs. deterministic tax computation in multi-agent financial advisory: A 2x2 factorial experiment
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23893v1
+[INFO] Extracted paper: QML for Quantum Sensing under Measurement-Induced Information Loss
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23892v1
+[INFO] Extracted paper: Quantifying System-Level Harms from AI Adoption in Complex Sociotechnical Systems
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23885v1
+[INFO] Extracted paper: Luce: Relightable Gaussians for 3D Asset Generation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24952v1
+[INFO] Extracted paper: More Rejective, Not More Discriminative: The Unit of Verification in Pre-Execution LLM Oversight
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23875v2
+[INFO] GitHub stars fetched for linzhe001/RefineRank
+[INFO] Extracted paper: RefineRank: Joint Box Refinement and Ranking for Surgical Spatio-Temporal Grounding
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23873v1
+[INFO] GitHub stars fetched for fckand/mars
+[INFO] Extracted paper: MARS: Multi-Specialist LLM Relay System for Competitive Programming
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23870v1
+[INFO] Extracted paper: The Dialect Tax: Dialectal Biases Persist throughout the Language Modeling Pipeline
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23860v1
+[INFO] Extracted paper: Learning the Kohn-Sham map with neural operators for quasi-linear scaling density functional theory
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23858v1
+[INFO] Extracted paper: A Mathematical Theory of Interpretation: Rational Entropy, Spectral Readout, and Confusability as a Resource
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23855v1
+[INFO] Extracted paper: Provenance Guided Incremental Learning Under Evolving Concept Definitions
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23848v1
+[INFO] Extracted paper: A tale of perfect fit and phantom optima: how data-driven models can fail in real-time optimization
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23847v1
+[INFO] Extracted paper: AI Finds A Way
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23842v1
+[INFO] Extracted paper: BenchBench-Protocol: Evaluating Real-World Wet-Lab Protocol Reasoning and Modification
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23840v1
+[INFO] GitHub stars fetched for sargamsahu1011/package-hallucination-detector
+[INFO] Extracted paper: Names Can Hurt: Spotting Slopsquatting Risks Caused by Package Name Hallucinations in Local Coding LLMs
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23839v1
+[INFO] GitHub stars fetched for ibm-granite/granite.trust.policy-tools
+[INFO] Extracted paper: Granite.Trust Policy Tools: Shareable, Actionable Policies for Generative AI Applications
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23838v1
+[INFO] GitHub stars fetched for JoshuaSP/semantic-overlays
+[INFO] Extracted paper: Semantic Overlays: Mitigating Prompt Injection with Annotations Beyond Tokens and Steering Vectors
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23837v1
+[INFO] Extracted paper: In-Context Inpainting for Time Series Forecasting
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23836v1
+[INFO] Extracted paper: Revelation Control
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23834v1
+[INFO] Extracted paper: Resilience Matters for Embodied Agents System: New Metrics, Systematic Evaluation, and Optimization
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23824v1
+[INFO] Extracted paper: ShardMeter: Sharded and Geo-Distributed Training Without the Guesswork
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23817v1
+[INFO] Extracted paper: Exploit More, Explore Smarter for Budget-Constrained Agentic Search
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23814v1
+[INFO] Extracted paper: Coronavirus Optimization Algorithm: A Success-History Adaptive Evolutionary Framework with Archive-Assisted Search and Stagnation Recovery for Global Optimization
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23811v1
+[INFO] Extracted paper: Automated Synthesis of Cloud Emulators
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23809v1
+[INFO] Extracted paper: Beyond the Mandate: A Systematic Security Analysis of the Agent Payments Protocol (AP2)
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23807v1
+[INFO] Extracted paper: Infant Care Video Dataset for Classification of Interventions Using Transformers
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23803v1
+[INFO] Extracted paper: A Formal Methodological Framework for Auditing Robustness and Fidelity in Explainable AI: From Application to Trust Certification
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23799v1
+[INFO] Extracted paper: Discovering Cross-Language Reasoning Invariance in LLMs with Geometry-Invariant Sparse Autoencoders
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23791v1
+[INFO] Extracted paper: Serving Masked Diffusion LLMs: Characterization and Design Principles from Real Hardware
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23780v2
+[INFO] Extracted paper: Learning to Grade Efficiently: A Bandit-Driven Prompt-Selection Framework for Low-Cost LLM Essay Scoring
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23776v1
+[INFO] Extracted paper: Generating Biomedical Fact-Checking Reports with RL-Enhanced Agentic Search
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23766v1
+[INFO] Extracted paper: SyPS: Measuring Sycophancy Prompt Sensitivity in Large Language Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23763v1
+[INFO] Extracted paper: Place, Slice and Schedule: Hierarchical O-RAN Control of a Tethered mmWave UAV-gNB
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23758v2
+[INFO] Extracted paper: Minima-KV: Retention-Preserving KV Cache Compression with Mixed-Format Paged Attention
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23752v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/leiluk1/GazeToSkill
+[WARNING] GitHub repository unavailable: https://github.com/leiluk1/GazeToSkill
+[INFO] Extracted paper: Predicting Radiologist Expertise from 3D Gaze Patterns During CT Interpretation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24949v1
+[INFO] Extracted paper: TrustShiftProbe: Characterizing, Benchmarking, and Defending Staged Trust Attacks on MCP Servers
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23740v1
+[INFO] Extracted paper: LUCAID: Agentic Multimodal AI for Lung Cancer Precision Pathology
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23706v1
+[INFO] Extracted paper: When Youth Enter The Chat: An Epistemic Shift in the Validation of LLM-Based Measures of Student Talk
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23705v2
+[INFO] Extracted paper: Disentangled Skill Representations for Predictive Human Modeling
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23691v1
+[INFO] Extracted paper: EXAM$^2$: $\underline{Ex}tending$ $\underline{A}udio$ $Understanding$ $in$ $\underline{M}ultilingual$ $and$ $\underline{M}ultimodal$ $Analysis$
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23566v2
+[INFO] Extracted paper: EmoTra-TTS: Smooth Intra-Utterance Emotion Transitions for Speech Synthesis
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23565v1
+[INFO] Extracted paper: Restoring Without Forgetting: Continual Learning Across Image Degradations
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23564v1
+[INFO] Extracted paper: What Reaches Expert Review? Representation, Structural Screening, and Candidate-Form Dependence in AI-Assisted Item Development
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23563v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/sankarh-1/demystifying-rl-finetuning
+[WARNING] GitHub repository unavailable: https://github.com/sankarh-1/demystifying-rl-finetuning
+[INFO] Extracted paper: Demystifying Reinforcement Learning Post-Training of Language Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23562v1
+[INFO] Extracted paper: ReWorld: An Interactive World Model with Long-Horizon Memory
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23670v1
+[INFO] Extracted paper: Do LLMs Understand Limit Order Book Dynamics?
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23552v1
+[INFO] Extracted paper: SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23551v1
+[INFO] Extracted paper: The Limits of Automatic Evaluation of Creativity in Large Language Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23543v1
+[INFO] Extracted paper: EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23541v1
+[INFO] Extracted paper: AgentRoom: Concurrent Multi-Agent Coding in a CRDT-Backed Shared Workspace
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23536v1
+[INFO] Extracted paper: Too much of a good thing -- when knowledge distillation promotes overfitting, and how to avoid it
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23526v1
+[INFO] Extracted paper: Physics-Constrained Deep Learning Model for Contactless Blood Pressure Monitoring from Triaxial Bodyseismography
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23525v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/dualverse-ai/station
+[WARNING] GitHub repository unavailable: https://github.com/dualverse-ai/station
+[INFO] Extracted paper: Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23524v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/QPHutu/golden_critic
+[WARNING] GitHub repository unavailable: https://github.com/QPHutu/golden_critic
+[INFO] Extracted paper: Best Practice Critic Optimization
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23666v1
+[INFO] Extracted paper: Automata from Agent Traces: Failure and Next-Step Prediction
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23507v1
+[INFO] Extracted paper: The Measurement Revolution? Credible Measurement and Inference in the Age of AI
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23497v1
+[INFO] Extracted paper: The Interaction Tax: When Communication Erases Diversity in Multi-Agent Teams
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23493v1
+[INFO] Extracted paper: How AI Assistance Affects Human Skill Development: A Study of Learning with Logic Puzzles
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23663v2
+[INFO] Extracted paper: Adapter-Based Few-Shot Continual Learning for Malicious Packet Recognition
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23484v1
+[INFO] Extracted paper: EarthVerse: Benchmarking Scientific Agents Across Dynamic Earth Systems and Natural Hazards
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23478v1
+[INFO] Extracted paper: Gated Activation Steering for Reducing Sycophancy & Hallucination in Medical Question Answering
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23475v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/PrimeIntellect-ai/prime-agent
+[WARNING] GitHub repository unavailable: https://github.com/PrimeIntellect-ai/prime-agent
+[INFO] Extracted paper: Prime Agent: A Self-Improving RLM Harness
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23474v2
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/Zarand3r/world-model-invariants
+[WARNING] GitHub repository unavailable: https://github.com/Zarand3r/world-model-invariants
+[INFO] Extracted paper: Correcting a learned physical invariant improves world-model rollouts
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23473v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/Na-Li66/ConvergeFlow
+[WARNING] GitHub repository unavailable: https://github.com/Na-Li66/ConvergeFlow
+[INFO] Extracted paper: ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23471v1
+[INFO] Extracted paper: StrategyBench: Evaluating Explicit Strategy Induction in Large Language Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23469v1
+[INFO] Extracted paper: Mitigating Reasoning-Induced Misalignment via Safety-Direction Penalty
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23452v1
+[INFO] Extracted paper: InjecMEM: Memory Injection Attack on LLM Agent Memory Systems
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23446v1
+[INFO] Extracted paper: Act with Intent: Distilling Behavior Intent for Vision-Language-Action Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23435v1
+[INFO] Extracted paper: When Names Cross Scripts: A Source-Grounded Benchmark for Historical Entity Reconciliation in the Mongol World
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24947v2
+[INFO] Extracted paper: Multi-Modal Semantic Expansion with Constrained LLM Reranking for Conversational Music Recommendation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23429v1
+[INFO] Extracted paper: MetaCaster: Meta-Harness-Optimized Agent for End-to-End Few-Shot Learning of Lightweight Time Series Forecasters
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23417v1
+[INFO] Extracted paper: What's the Catch? Evaluating Temporal Consistency in Vision-Language Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23660v1
+[INFO] Extracted paper: Confidently Wrong, Silently So: Auditing Undetectable Failures of a Deployed On-Device Language Model
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23658v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/Galleons2029/SRPO
+[WARNING] GitHub repository unavailable: https://github.com/Galleons2029/SRPO
+[INFO] Extracted paper: SRPO: Self-Reflective Policy Optimization for Long-Horizon Reasoning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23400v1
+[INFO] Extracted paper: CAT-GS: Balanced Multimodal Learning via Calibrated Gating and Fusion Surgery
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23397v2
+[INFO] Extracted paper: Characterizing Necessary Losers to Explain Tournaments Losers
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23395v1
+[INFO] Extracted paper: Machine Learning Assisted Inverse Design of Pixelated mmWave Patch Antennas
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23392v1
+[INFO] Extracted paper: Elastic KV Cache for LLM Serving:A Working Reclamation Mechanism, and Why Chunked Prefill Already Closes the Gap
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23391v2
+[INFO] Extracted paper: Towards Comprehensive Basketball Understanding
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23390v2
+[INFO] Extracted paper: ChebBooster: A Training-Free Approach for Efficient Diffusion Transformer Inference via Chebyshev-Inspired Extrapolation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23375v1
+[INFO] Extracted paper: SkillAlchemy: Open-World Agent Skill Creation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23373v1
+[INFO] Extracted paper: From Causal Plausibility to Causal Reliability: Evaluating LLMs as Calibrated Direct Causal-Edge Classifiers
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23370v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/AndrejOrsula/space_robotics_bench
+[WARNING] GitHub repository unavailable: https://github.com/AndrejOrsula/space_robotics_bench
+[INFO] Extracted paper: Reward-Free Continual Adaptation for Resilient Space Robots
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23363v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/CalmaQi/ANR-DiffRec
+[WARNING] GitHub repository unavailable: https://github.com/CalmaQi/ANR-DiffRec
+[INFO] Extracted paper: Adaptive Item-based Collaborative Structures via Noise Rescheduling in Diffusion for Generative Recommendation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23338v1
+[INFO] Extracted paper: MediSkill-Evo: Process-Constrained Self-Evolution for Evidence-Grounded Clinical Interaction
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24945v1
+[INFO] Extracted paper: Cross-lingual Biography Enrichment via Claim Extraction and Alignment
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23329v2
+[INFO] Extracted paper: Cross-Domain, Multi-Task Data-to-Text Generation without In-Domain Training Data
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23323v1
+[INFO] Extracted paper: The Emergence of Relevance Through Axiomatic Attention Patterns During LoRA Fine-Tuning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23318v1
+[INFO] Extracted paper: Adversarial Entropy Inflation Against Gumbel-Based Inference Verification
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23313v1
+[INFO] Extracted paper: Walking on the DARKSIDE
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23308v1
+[INFO] Extracted paper: Towards a Densing Law for User Representation Learning at Billion-Scale Capacity
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23300v1
+[INFO] Extracted paper: Modalities Should Talk to Each Other: Dual-Stream Multimodal Learning for Long-Horizon Influenza Forecasting
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23296v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/pedro-santos-eng/Right-sizing-LLM-agent-decomposition-in-VAT-determination
+[WARNING] GitHub repository unavailable: https://github.com/pedro-santos-eng/Right-sizing-LLM-agent-decomposition-in-VAT-determination
+[INFO] Extracted paper: Right-Sizing LLM-Agent Decomposition in VAT Determination: A Pilot Controlled Sweep
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23286v2
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/vladhondru25/DF-MoE
+[WARNING] GitHub repository unavailable: https://github.com/vladhondru25/DF-MoE
+[INFO] Extracted paper: DF-MoE: Generalizable Deepfake Detection via Multimodal Sparse Mixture-of-Experts
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23283v2
+[INFO] Extracted paper: Sigmoid Attention as a Better Substrate for Learned KV Cache Eviction
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23264v1
+[INFO] Extracted paper: EviSafe: Evidence-Grounded Safety Evaluation for Vision-Language Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23263v1
+[INFO] Extracted paper: Evaluating SAT Solver Metrics as Predictors of Human-Perceived Nonogram Difficulty
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23258v1
+[INFO] Extracted paper: Thinking Beyond Videos: Unifying Video Reasoning and Deep Research for Open-World Video Agents
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23256v1
+[INFO] Extracted paper: FIDES: A Concordance Protocol for LLM-Generated Trading Strategies
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23253v1
+[INFO] Extracted paper: How Much Regularization Survives Averaging? Update Masking in Federated Learning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23248v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/ZJU-REAL/Agent-G2
+[WARNING] GitHub repository unavailable: https://github.com/ZJU-REAL/Agent-G2
+[INFO] Extracted paper: Agent-G$^2$: Gaussian Guidance for Agentic Reinforcement Learning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23247v1
+[INFO] Extracted paper: FAMPWQ: Fisher Information-based Adaptive Mixed Precision Weight Quantization for Effective LLM Inference
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23244v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/dehshibi/Mycelia-Search
+[WARNING] GitHub repository unavailable: https://github.com/dehshibi/Mycelia-Search
+[INFO] Extracted paper: Mycelial Search: A Graph-Structured Metaheuristic for Continuous Optimisation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23241v1
+[INFO] Extracted paper: Apodex 1.1: Scaling Agentic Intelligence for Complex Work
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23224v1
+[INFO] Extracted paper: Is Next-Chunk Reasoning RL Really Better than SFT? Revisiting Training Strategies under no-CoT Data
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23218v1
+[INFO] Extracted paper: Hidden in the Request: Explaining Unethical LLM Compliance through Token Relevance
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23217v1
+[INFO] Extracted paper: Credal Large Language Models for Semantic Commitment under Uncertainty
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23215v1
+[INFO] Extracted paper: Multi-Winner Voting with Argumentative Ballots
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23205v1
+[INFO] Extracted paper: Automated Construction of FAIR Digital Object Knowledge Graphs from Flat Cultural Heritage Records
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23196v1
+[INFO] Extracted paper: Retrieval-Augmented Classification of Environmental Mitigations in Hydropower Licensing Documents
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23179v1
+[INFO] Extracted paper: Future Querying: Can LLMs Serve as Implicit Medical World Models?
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23164v1
+[INFO] Extracted paper: Think Only When Needed: Prompt-Authority Control for Selective Slow-Path Intervention in Vision-Language-Action Manipulation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23149v2
+[INFO] Extracted paper: Progressively Learning Heterogeneous Skills in a Unified Latent Space
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23653v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/taoyu-qian/E2S-Pruner.git
+[WARNING] GitHub repository unavailable: https://github.com/taoyu-qian/E2S-Pruner.git
+[INFO] Extracted paper: E2S-Pruner: Progressive Two-Stage Evidence Fusion for Visual Token Pruning in Vision-Language Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23138v1
+[INFO] Extracted paper: Cognitive Profiling of LRMs' Reasoning Traces Using Bloom's Taxonomy
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23124v2
+[INFO] Extracted paper: BenthicDINO: Physics-Informed Self-Distillation for View-Invariant Side-Scan Sonar Representations
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26194v1
+[INFO] Extracted paper: What is mathematics now, and what should it be?
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23120v1
+[INFO] Extracted paper: Counterfactual Transition Graphs: Evaluating Cross-Class Transition Quality
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26193v1
+[INFO] Extracted paper: NetConfArena: An Executable Benchmark for LLM Agents in Closed-Loop Network Configuration
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23114v1
+[INFO] Extracted paper: Beyond Executable Models: The Pufibara Agent Harness and the Modelica Agent Workflow Benchmark for Physical System Modeling
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23104v2
+[INFO] Extracted paper: AI emotional support is better only when chosen, but shifts preferences even when it is not
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23101v1
+[INFO] Extracted paper: Pointing-VLA: Typed Spatial Grounding Interfaces for Vision-Language-Action Manipulation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23100v1
+[INFO] Extracted paper: AI Surrogate Modeling for Real-Time Tokamak Equilibrium Prediction: Benchmarking Neural Architectures and Validation on EXL-50U
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23098v2
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/dltmddbs100/CRPO
+[WARNING] GitHub repository unavailable: https://github.com/dltmddbs100/CRPO
+[INFO] Extracted paper: Language Chain in Alignment: Cross-lingual Ranking Preference Optimization
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23086v1
+[INFO] Extracted paper: DeMixPert: Decomposed Response Modeling with Gaussian Mixtures for OOD Single-Cell Perturbation Prediction
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23078v1
+[INFO] Extracted paper: A Reranker for Orchestrating Heterogeneous Speech and Text Retrievers
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23651v1
+[INFO] Extracted paper: Molecular LLM Agents: From Architectural Design to Scientific Autonomy
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23070v1
+[INFO] Extracted paper: POOL: Propagated Uncertainty Over Lookalikes
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23065v1
+[INFO] Extracted paper: PolyChirp: Multi-Species Birdsong Classification Using TinyML on Low-Power Acoustic Sensors
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23061v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/eliot127825-rgb/AffectOmni_nobody
+[WARNING] GitHub repository unavailable: https://github.com/eliot127825-rgb/AffectOmni_nobody
+[INFO] Extracted paper: AffectOmni: RL-Verifiable People-Centric Grounded Affective Reasoning for Social and Art-Related Scenes
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23058v1
+[INFO] Extracted paper: Statistical Machine Translation Systems of English-Pnar Language Pair : Some Insights of the Emperical Study
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23047v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/Znull-1220/LiteraryBigFive
+[WARNING] GitHub repository unavailable: https://github.com/Znull-1220/LiteraryBigFive
+[INFO] Extracted paper: LITERARYBIGFIVE: Author-Personalized Text Generation in a Unified Interpretable Space
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23045v2
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/jiangli-va/Jiuge-Tuiqiao
+[WARNING] GitHub repository unavailable: https://github.com/jiangli-va/Jiuge-Tuiqiao
+[INFO] Extracted paper: Jiuge-Tuiqiao: An Interpretable Human-AI System for Classical Chinese Poetry Refinement
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24940v1
+[INFO] Extracted paper: Shaping the Evolutionary Dynamics of Robot Morphology via Adaptive Control Learning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23041v1
+[INFO] Extracted paper: AgentWeave: Routing Before Reasoning for Efficient Function Calling in Tool-Rich Language Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23037v1
+[INFO] Extracted paper: Improving O-RADS Risk Stratification from Ultrasound Reports: A Comparative Evaluation of Hybrid versus End-to-End LLM Reasoning Strategies
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23035v2
+[INFO] Extracted paper: LLM-based Agents for Forecasting and Prediction: Methods, Training, Evaluation, and Applications
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23031v2
+[INFO] Extracted paper: Beyond Verdicts: A Graph-Based Analysis of Human and LLM Reasoning in Scientific Fact-Checking
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23030v1
+[INFO] Extracted paper: AutoSaddler: Automatic Harness Optimization with Durable Updates from Agent Execution Traces
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23028v1
+[INFO] Extracted paper: Cultural Moment Benchmark: Evaluating Video Cultural Reasoning and Grounding in Southeast Asia
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23026v1
+[INFO] Extracted paper: When Does Frequency Decomposition Benefit Physics-Informed Neural Networks? A Preliminary Ablation Study
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23020v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/PangSMPang/NIS-Agent
+[WARNING] GitHub repository unavailable: https://github.com/PangSMPang/NIS-Agent
+[INFO] Extracted paper: From Inertia to Objectivity: Improving Deep Research Agents with Noise Isolation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23646v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/Esmail-ibraheem/feedback-that-backfires
+[WARNING] GitHub repository unavailable: https://github.com/Esmail-ibraheem/feedback-that-backfires
+[INFO] Extracted paper: Feedback That Backfires: Why Small Language Model Agents Repeat the Call They Just Watched Fail
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23018v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/AtongWang/world-model-simulators
+[WARNING] GitHub repository unavailable: https://github.com/AtongWang/world-model-simulators
+[INFO] Extracted paper: From Generation to Simulation: How Far Are World Models from Being True Simulators?
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23011v1
+[INFO] Extracted paper: MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23001v1
+[INFO] Extracted paper: Beyond Surface Cues: Disentangling Sociocultural Signals in Multilingual LLMs
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22994v1
+[INFO] Extracted paper: Unlearning Is Not Just Erasing: Temporal Decoupling via Generation Inequality
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24938v1
+[INFO] Extracted paper: PsychJail: Exploring Psychological Jailbreaks via Multi-Turn Persuasion of LLM Policies
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22980v1
+[INFO] Extracted paper: FedCC: Towards Addressing Label Distribution Skews in Distillation-Based Federated Learning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22979v2
+[INFO] Extracted paper: Artificial Empathy: Towards a Framework for Unsupervised Agency Detection and Policy Reconstruction
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22975v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/beatrice-f/mFNC
+[WARNING] GitHub repository unavailable: https://github.com/beatrice-f/mFNC
+[INFO] Extracted paper: The Multilingual FrameNet Corpus
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22974v1
+[INFO] Extracted paper: MolEmb: Multimodal Large Language Models Can Be Strong Molecular Embedding Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22971v1
+[INFO] Extracted paper: Coarse Indexing, Fine Evidence: Decoupling Temporal Granularity in Long-Video RAG
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22963v2
+[INFO] Extracted paper: SplitLite: Low-Rank Residual Compression for Split Learning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22960v1
+[INFO] Extracted paper: Toward Effective and Reliable LLM Agents via Dynamic Ontology
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22959v1
+[INFO] Extracted paper: PatchWrite: One Line, Not One Section -- Compile-Gated, Validity-Preserving Editing for AI-Drafted Manuscripts
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22948v1
+[INFO] Extracted paper: ParallelWorld: Test-Time Scaling for Embodied Reasoning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22930v1
+[INFO] Extracted paper: SA-RSQ: A Versatile Sparse Representation Framework for Multi-modal Recommender Systems
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22923v1
+[INFO] Extracted paper: Budget-Constrained Embodied Perception: Four Resource Walls and a Pre-Registered Evaluation of Access-Structured Perception on Open Models at less than 31B
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22920v1
+[INFO] Extracted paper: Hypergraph Embedding Indexing for Efficient Dense Vector Retrieval
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22915v1
+[INFO] Extracted paper: ExFold: Unified Expert Folding for Training-Free MoE Prefill-Decode Acceleration
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22908v1
+[INFO] Extracted paper: A Physical Response-and-Memory Model for Muon Optimization
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22899v2
+[INFO] Extracted paper: Buried in Textual Debt: Context Pruning with Visual Evidence Preservation for MLLM Agents
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26192v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/jaykim9870/Do_SLMs_Hear_Speech_as_They_Read_Text
+[WARNING] GitHub repository unavailable: https://github.com/jaykim9870/Do_SLMs_Hear_Speech_as_They_Read_Text
+[INFO] Extracted paper: Do Spoken Language Models Hear Speech as They Read Text? Bridging Structural Gaps Between Speech and Text
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22894v1
+[INFO] Extracted paper: What Proves You Wrong: Benchmarking Language Models on Falsifiable Research Ideation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22887v1
+[INFO] Extracted paper: Safety Hacking in Constrained Best-of-$N$ Inference-time Scaling
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23644v1
+[INFO] Extracted paper: WildHandBench: A Benchmark for Handwritten Text Understanding that Challenges MLLMs and Humans
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23643v1
+[INFO] Extracted paper: Concepts for Securing Agentic AI Coding and the Terok Environment
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22876v2
+[INFO] Extracted paper: CDEG: Learning Decision-Critical Evidence for Long-Horizon Diagnostic Agents
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22852v1
+[INFO] Extracted paper: What Process Evaluation of Coding Agents Actually Measures: Action, Task, and Step Are Three Different Levels
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22847v1
+[INFO] Extracted paper: Deep Learning-Based Multi-User Communication Design for Dense IoT Networks: Interference-Aware Finite-Blocklength Communication and Preliminary MIMO Extensions
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22842v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/LSH0411/BOAR
+[WARNING] GitHub repository unavailable: https://github.com/LSH0411/BOAR
+[INFO] Extracted paper: Beyond Observed Auxiliary Relations: Environment-Conditioned Modeling for Multi-Behavior Recommendation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22839v1
+[INFO] Extracted paper: Comparing Chunking and Embedding Strategies for Turkish RAG Systems
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22833v1
+[INFO] Extracted paper: FLARE: A Systematic, Uncertainty-Aware Framework for Evidence-Based Adoption of Artificial Intelligence in Healthcare
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22832v1
+[INFO] Extracted paper: The Mask Is Not the Model: Auditing Prefix Invariance in Attention, State-Space, and Hybrid Sequence Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22830v1
+[INFO] Extracted paper: Your AI, On a Dial: Controlling Investment Bias in LLMs with a Single Neuron
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22820v1
+[INFO] Extracted paper: Ethical LLM-Assisted Research: A Framework for Responsible Delegation, Verification, and Epistemic Value
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22802v1
+[INFO] Extracted paper: GSAR: Goal-State-Anchor Rewards for Mobile GUI Agents with Self-Evolving Data Synthesis
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22800v1
+[INFO] Extracted paper: Proxy reliance in large language model decisions is uncalibrated to predictive evidence
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22797v1
+[INFO] Extracted paper: FinixDoc: Rethinking Financial Document Parsing Beyond Saturated Benchmarks
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22793v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/uoguelph-mlrg/hierarchy-aware-llm-uq
+[WARNING] GitHub repository unavailable: https://github.com/uoguelph-mlrg/hierarchy-aware-llm-uq
+[INFO] Extracted paper: Hierarchy-Aware Supervised Uncertainty Estimation for Black-box LLM Taxonomic Reasoning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22788v2
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/ArabicNLP-UK/AraDetox
+[WARNING] GitHub repository unavailable: https://github.com/ArabicNLP-UK/AraDetox
+[INFO] Extracted paper: AraDetox: A Multi-Dialect Arabic Detoxification Dataset
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22767v1
+[INFO] Extracted paper: TRACE: A Self-Evolving Skill Bank for Consistent, Limit-Aware LLM Agents
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22762v1
+[INFO] Extracted paper: Performance of a domain-specific large language model in answering patient questions in psychiatry
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22761v1
+[INFO] Extracted paper: Beyond the Harness: End-to-End Optimization of Context Artifacts for Enterprise Text-to-SQL
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22758v1
+[INFO] Extracted paper: Fairness-Aware Mixture-of-Experts via Subgroup Reweighting and Gate Regularization
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22757v1
+[INFO] Extracted paper: Triplet2Track: A Hierarchical System with Object-Centric Representations for Reliable Long-Horizon Manipulation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22752v1
+[INFO] Extracted paper: Let the Bullets Fly: Multimodal Fake News Detection with Temporal-Aligned Generative Danmaku
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22745v1
+[INFO] Extracted paper: SDoH-Aware Narrative Anchoring Bias in Medical LLMs for Trustworthy Clinical Decision Support
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23642v1
+[INFO] Extracted paper: The Retriever Should Remember: Experience-Amortized Reranking for Long-Term Agent Memory
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22731v1
+[INFO] Extracted paper: TailSieve: Partial-Rollout-Guided Tail Routing for LLM Rollouts
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22725v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/ryukih/SD-AgentFoundry-2D
+[WARNING] GitHub repository unavailable: https://github.com/ryukih/SD-AgentFoundry-2D
+[INFO] Extracted paper: Minimal Local Simulation Foundations for LLM- and VLM-Driven Agents in 2D and 3D Environments
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23641v1
+[INFO] Extracted paper: Don't Repeat Yourself: Stopping Verbatim Loops at Sampling Time
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22716v1
+[INFO] Extracted paper: Compositional Chain-of-Relations for Faithful Knowledge Graph Question Answering with Large Language Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22708v1
+[INFO] Extracted paper: Object-Uni: A Unified Model for Object-Centric Spatial Understanding and Controllable Generation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24937v1
+[INFO] Extracted paper: AI Agents Push Humans Out of the Loop
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22697v1
+[INFO] Extracted paper: XTC: Head-Aware Sampling by Excluding Top Choices
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22695v1
+[INFO] Extracted paper: How much of a measured AI preference is the model, and how much is the instrument?
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26191v1
+[INFO] Extracted paper: DiaRelay: Relaying Dialogue Context with a Constant-Size Memory for Emotion Recognition in Conversation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22678v1
+[INFO] Extracted paper: The Compaction Cliff in Long-Running AI Agent Memory
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22676v1
+[INFO] Extracted paper: SEAM: Shot Entity-Attribute Memory for Consistent Short-Drama Generation at Scale
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22672v1
+[INFO] Extracted paper: LLM-Based Selection of Incongruent Verbal and Nonverbal Behavior for Virtual Humans
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22665v1
+[INFO] Extracted paper: CacheRouter: A Dual-Path Tool Routing Architecture with Cache-Preserving Main-Model Isolation for Long-Tail Tool Discovery
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22657v1
+[INFO] Extracted paper: Multi-Modal Anomaly Detection: A Survey
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24936v1
+[INFO] Extracted paper: Enrich-Retrieve-Rank: Scaling Capability Discovery Beyond In-Context Routing
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22652v1
+[INFO] Extracted paper: Robustness Analysis of Agentic AI to Inconsistent and Incomplete Tool Responses
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22646v1
+[INFO] Extracted paper: Does Rank Still Matter? Position Bias When AI Agents Shop on Our Behalf
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22642v2
+[INFO] Extracted paper: A-CPES: A Reference Framework for Agentic AI in Cyber-Physical Energy Systems
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22638v1
+[INFO] Extracted paper: TEE-X: TEE-aware Acceleration Framework for Large Vision Models at the Edge
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22634v1
+[INFO] Extracted paper: Structured Evidence Routing for Incident Risk Prediction from Multimodal Longitudinal EHRs
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22622v1
+[INFO] Extracted paper: RACO: Reliability-Aware Coarse-Goal Optimization for Inspection-Oriented UAV Vision-Language Navigation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22617v1
+[INFO] Extracted paper: Hyperbolic Hierarchical Clustering for Visual Representation Learning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22615v1
+[INFO] Extracted paper: Physical Agentic AI: An Architecture for Orchestrating a Robot Crew with LLMs
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22610v1
+[INFO] Extracted paper: Mol-JEPA: A multimodal Joint Embedding Predictive Architecture for Molecules
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22586v1
+[INFO] Extracted paper: Do Not Copy/Paste: Soft Barriers for Copying in AI-Assisted Programming
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22584v1
+[INFO] Extracted paper: GeoRisk-RAG: A Hierarchy-Aware Risk Framework for Improving RAG Reliability through Selective Answering
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22583v2
+[INFO] Extracted paper: GreenLeaf Law Embed Tiny: A Compact Embedding Model for Legal Domain Retrieval
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22582v1
+[INFO] Extracted paper: CAI-DLLM: Convergence Aware Inference for Diffusion Language Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24935v1
+[INFO] Extracted paper: Teaching LLMs How ICU Physicians Approach Clinical Reasoning Through OMOP-Aligned Retrieval Improves Reasoning Across Clinical Domains
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23640v1
+[INFO] Extracted paper: Evaluating Inference-Time Defenses Against Package Hallucination in LLM-Generated Code
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22577v2
+[INFO] Extracted paper: AI-based worker guidance in assembly and disassembly operations using multimodal ego/exo-centric data capture and structured task knowledge
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22559v2
+[INFO] Extracted paper: DeepSAGE: Stage-Aware Reinforcement Learning for Structured CBT Counseling Dialogue
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22557v1
+[INFO] Extracted paper: Hybrid Panels: Toward Human-AI Collaboration in Survey Research
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22549v1
+[INFO] Extracted paper: Coalition-Aware Skill Reliability for Self-Evolving Agents
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22538v1
+[INFO] Extracted paper: Clinical Graph-JEPA: Predictive Patient-State Knowledge Graphs for Cognitive Decision Support
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22533v1
+[INFO] Extracted paper: Vision-Language Models for Occupational Physical Exposure Assessment: Estimating External Hand Forces in Manual Material Handling Tasks from RGB Video
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24934v1
+[INFO] Extracted paper: Weakly supervised concept Bottleneck Learning for Robust Two stage Object centric visual reasoning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22512v1
+[INFO] Extracted paper: CausalCache: Conditional High-Fidelity Restoration for Long-Horizon GUI Agents
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22510v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/heathriel/synthetic-memoir-audit
+[WARNING] GitHub repository unavailable: https://github.com/heathriel/synthetic-memoir-audit
+[INFO] Extracted paper: Auditing the Synthetic Memoir: Measuring Scene-Level Confabulation in LLM-Generated Autobiography Against the Documented Record of the Life It Describes
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22504v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/WilliamBu1/A-Lightweight-Vision-Language-Model-for-Early-Stage-Fruitlet-Classification-in-Apple-Orchards
+[WARNING] GitHub repository unavailable: https://github.com/WilliamBu1/A-Lightweight-Vision-Language-Model-for-Early-Stage-Fruitlet-Classification-in-Apple-Orchards
+[INFO] Extracted paper: A Lightweight Multimodal Vision-Language Framework for Early-Stage Anatomical Green Fruit Classification in Commercial Orchards
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22472v1
+[INFO] Extracted paper: CONTRAMEM: Learning Self-Evolving Procedural Memory from Contrasting Multi-Model Trajectories
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22462v2
+[INFO] Extracted paper: HANSARD: A Reference Architecture for Forensic Readiness, Runtime Witnessing, and Graded Attribution in Autonomous Multi-Agent AI Systems
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23635v1
+[INFO] Extracted paper: Scaling Curriculum Learning For Autonomous Driving
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22449v1
+[INFO] Extracted paper: STAGE: Stateful Translation to Agentic Graph Execution with Policy-Scoped Context and Deterministic Control
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22438v1
+[INFO] Extracted paper: ExecRubrics: Executable Tool-Augmented Rubrics for Verifiable and Efficient Long-Form Evaluation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22432v1
+[INFO] Extracted paper: BLADE: Bilevel Low-rank Augmented-Lagrangian Erasure for LLM Unlearning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22429v1
+[INFO] Extracted paper: ClawProBench: Trace-Aware Evaluation of AI Agents with Runtime Coverage and Frozen Workplace-Style Holdouts
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23632v1
+[INFO] Extracted paper: When Does AI for PDEs Yield Scientific Evidence?
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22421v1
+[INFO] Extracted paper: Small Reasoning Models are Instruction Followers in Function Calling
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22420v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/Applied-AI-Research-Lab/Explainable-AI-Plant-Disease-Detection
+[WARNING] GitHub repository unavailable: https://github.com/Applied-AI-Research-Lab/Explainable-AI-Plant-Disease-Detection
+[INFO] Extracted paper: Fusing Perceptual Vision Experts with Multimodal Large Language Models for Explainable Plant Disease Diagnosis: From Benchmark Imagery to Real-World Robotic Field Validation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22417v1
+[INFO] Extracted paper: Functional compatibility as a determinant of persistent neural learning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23631v1
+[INFO] Extracted paper: Cross-Subject Generalization in Decoding Perceived Speech from Non-Invasive Brain Recordings
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22389v1
+[INFO] Extracted paper: LLMs for Survey Text Analysis - A Performance Comparison Between Humans and GPT-5 on Inductive Content Analysis
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22388v1
+[INFO] Extracted paper: Where World Models Break: Natural-Input Failure Discovery
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22387v1
+[INFO] Extracted paper: Rank Reversal in Multilingual LLM Judges: A Label-Free Double-Centering Calibrator
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26190v1
+[INFO] Extracted paper: When Persona Simulations Are Informative: Graph-Structured Signals for Pluralistic Opinion Sensing
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22364v1
+[INFO] Extracted paper: Think with Structured Grounding: Perceptual Reinforcement Learning for Chart and Visual-Tabular Understanding
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22363v1
+[INFO] Extracted paper: ToolRobustBench: Stage-Wise Perturbation Evaluation and Failure Diagnosis for Tool-Calling Agents
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22359v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/inechnech/STEP-KTODER
+[WARNING] GitHub repository unavailable: https://github.com/inechnech/STEP-KTODER
+[INFO] Extracted paper: Function-Level Execution Feedback for Code Preference Optimization
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22356v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/wangwen-banban/EMPIRE
+[WARNING] GitHub repository unavailable: https://github.com/wangwen-banban/EMPIRE
+[INFO] Extracted paper: EMPIRE: Explicit Manipulation Planning as a Learnable Intermediate Representation for Egocentric Hand-Motion Forecasting
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22354v2
+[INFO] Extracted paper: ProBel: Propaganda Detection with Techniques, Spans, and Explanations
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22347v1
+[INFO] Extracted paper: WAM-OPD: On-Policy Distillation for World Action Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22346v1
+[INFO] Extracted paper: Self-Supervised Graph Representation Learning for In-The-Wild Wearable and Smartphone based Emotion Recognition
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22341v1
+[INFO] Extracted paper: Addressing the Selection Problem in Explainable AI
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22335v1
+[INFO] Extracted paper: Predicting Consequences and Reinforcing Navigation Policies with Latent World Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23629v1
+[INFO] Extracted paper: KONTOGRAPH: Verified Point-in-Time Feature Consistency and Amortised Explanation for Real-Time Anti-Money Laundering under a 200 ms Decision Budget
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22310v1
+[INFO] Extracted paper: TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26189v1
+[INFO] Extracted paper: SANE: State Anomaly Neutralization for Stable Extreme-Context Delta-Rule Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22301v1
+[INFO] Extracted paper: Analyzing and Mitigating Cross-Lingual Degradation in Multilingual Medical VQA
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22295v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/masjalayer/PreDecoding-AcousticTriage
+[WARNING] GitHub repository unavailable: https://github.com/masjalayer/PreDecoding-AcousticTriage
+[INFO] Extracted paper: Pre-Decoding Acoustic Triage for Budgeted Vision-Language Captioning of Untrimmed Egocentric Video
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22284v1
+[INFO] Extracted paper: HERO: Human-profile Enhanced Retrieval Optimization Framework for Long-term Agent Memory
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22279v1
+[INFO] Extracted paper: Multimodal examination answer data with expert-designed Outcome-Based Education rubrics for criterion-level assessment
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22274v1
+[INFO] Extracted paper: Register Shifts Break LLM Safety: A Bengali Benchmark with Culturally Grounded Harms
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22273v1
+[INFO] Extracted paper: Macro-Operator Generation and Predicate Selection for TAMP Operator Learning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22272v1
+[INFO] Extracted paper: Invocation-Level Reliability of Tool-Using Agents
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22266v2
+[INFO] Extracted paper: TransHands: Repurposing Human Pose Encoders as Hand Pose Encoders
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22263v1
+[INFO] Extracted paper: The Imitator Game: Benchmarking Robot Imitative Ability Beyond Action Prediction
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22244v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/fmarrabal/miuracognitive
+[WARNING] GitHub repository unavailable: https://github.com/fmarrabal/miuracognitive
+[INFO] Extracted paper: Where Cognition Lives: Dissecting Emergent from Computed Function in a Minimal Complete Cognitive Architecture
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22237v1
+[INFO] Extracted paper: Learning from the Test: Self-Referential Differential Testing for Deep RL Agents
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22232v2
+[INFO] Extracted paper: LLM Evaluation on Unseen Questions: Contextual Multidimensional IRT Model
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22224v1
+[INFO] Extracted paper: OVIBench: Benchmarking Online Video Question Answering under Interruption
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22223v1
+[INFO] Extracted paper: Clarify User Expertise: Towards Proactive Conversational Agents Tailoring Responses to User Proficiency
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22214v1
+[INFO] Extracted paper: Training-Free VLM Personalization via Calibrated Residual Decoding
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22212v1
+[INFO] Extracted paper: Multi-Task Learning for Non-Canonical Phoneme Recognition via Articulatory Feature Decomposition
+[INFO] Fetching paper: http://arxiv.org/abs/2608.24931v1
+[INFO] Extracted paper: GAN-Diff : Coupling Pretrained WGAN-GP Features with Conditional Diffusion U-Nets
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22191v1
+[INFO] Extracted paper: Read Less, Solve More: Token-Efficient Sparse Reading for AI Agents
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26188v1
+[INFO] Extracted paper: Beyond What Meets the Eye: Unveiling Situational Illusions for Multimodal Large Language Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22176v1
+[INFO] Extracted paper: Improving Few-Step Language Flows with Untied Self-Conditioning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22167v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/Entropy-Valley/Entropy-Valley
+[WARNING] GitHub repository unavailable: https://github.com/Entropy-Valley/Entropy-Valley
+[INFO] Extracted paper: Length-Adaptive Decoding for Masked Diffusion Machine Translation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22161v1
+[INFO] Extracted paper: MCP-Universe RL: A Framework for Training MCP Tool-Use Agents via Reinforcement Learning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22160v1
+[INFO] Extracted paper: FreKoo++: Learning Continuous Spectral Dynamics for Temporal Domain Generalization
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23626v1
+[INFO] Extracted paper: Spending Scarce Confirmatory PET Measurements: Target-Aligned Validation in A4/LEARN
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22155v1
+[INFO] Extracted paper: Is Your Neighborhood Safe? Place-based Stigma in Large Language Models' Urban Safety Judgments
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22149v2
+[INFO] Extracted paper: Query-Driven Multimodal Information Extraction from Long Documents
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22143v1
+[INFO] Extracted paper: Modality Contribution Score - A Per-Patient Framework for Quantifying the Relative Diagnostic Contribution of Structural MRI and Amyloid PET in Alzheimer's Disease
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22141v1
+[INFO] Extracted paper: Role-Specialized Mixture-of-Agents with Open-Weight LLMs for Clinical Prediction
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22140v1
+[INFO] Extracted paper: Disagree to Explore, Agree to Commit: Routing-Guided Test-Time Scaling for Software Agents
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22138v1
+[INFO] Extracted paper: Joint Causal Structure and Cluster Discovery Using Variational Inference
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22137v1
+[INFO] Extracted paper: Aggregation-Aware Synthetic Text Generation Against Authorship Re-Identification
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22132v1
+[INFO] Extracted paper: A survey detection channel overrides the pixels in an astronomical foundation model, and biases tomographic mean redshifts
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22131v1
+[INFO] Extracted paper: Meta-Ctrl: Guaranteed Plan Generation by Decoupling Syntactic and Semantic Constraints
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22128v1
+[INFO] Extracted paper: Why Does Robustness Reduce Superposition?
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22108v1
+[INFO] Extracted paper: Evaluation of Small Vision-Language Models on Qualitative Mechanical Problems
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22103v1
+[INFO] Extracted paper: AUDITA: certified auditing and causal attribution of adverse outcomes in autonomous multi-agent systems
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22102v1
+[INFO] Extracted paper: MegaMem: A Retrieval Solution for Ultra-Large Context Windows
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26187v1
+[INFO] Extracted paper: MEMONDEMAND: A Memory Management System for Large-Scale Enterprise Data
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22090v1
+[INFO] Extracted paper: Measuring Stability and Failure Behavior in Language Models Under Structured Perturbations
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22089v1
+[INFO] Extracted paper: SSE-Bio: A Structured Self-Evolving Agent with Agentic Retrieval Policy for Multi-Hop Biomedical Reasoning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22085v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/Jiaqian-Janelle/Attention-Diversion
+[WARNING] GitHub repository unavailable: https://github.com/Jiaqian-Janelle/Attention-Diversion
+[INFO] Extracted paper: Lexical Perturbations Disrupt LLM Reasoning: An Empirical Study of Attention Diversion
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23623v1
+[INFO] Extracted paper: TRACE: Artifact-Robust Statistical Shape Modeling from Imperfect Surface Scans - A Case Study in Craniosynostosis 3D Photography
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23622v1
+[INFO] Extracted paper: Hack-Verifiable Terminal Bench: Evaluating Reward Hacking in Terminal Tasks
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22076v1
+[INFO] Extracted paper: Semantic Reasoning Denoising: Correcting Language Model Reasoning with Semantic Operators
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22071v1
+[INFO] Extracted paper: Learning Implicit Constitutive Laws for Dynamic 3D Gaussian Splatting from Monocular Videos
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22068v1
+[INFO] Extracted paper: Task-Driven 3D Printability Assistance via Geometry- and Knowledge-Grounded LLM Reasoning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22067v3
+[INFO] Extracted paper: Dissecting Neuro-Symbolic Quality Assurance for Synthetic Oncology Data Generation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22066v1
+[INFO] Extracted paper: Development and Feasibility Evaluation of an Edge AI as Medical Device System for Breast Cancer Multidisciplinary Team Meetings
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22065v1
+[INFO] Extracted paper: On Predicting Vulnerability Severity Using In-Context Learning: An Industrial Case Study
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26186v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/EEthanShi/kan-jump-test
+[WARNING] GitHub repository unavailable: https://github.com/EEthanShi/kan-jump-test
+[INFO] Extracted paper: When the Canonical Completion Is Wrong: Formalizing and Measuring the Jump in Large Language Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22063v1
+[INFO] Extracted paper: When May an Agent Stop? Evidence-Carrying Termination for Tool-Using LLMs
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22062v1
+[INFO] Extracted paper: LLM Agents Perform Controlled Experiments Using Simulation Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22061v1
+[INFO] Extracted paper: From SQL Generation to Tool Selection: A Domain-Oriented Pattern for MCP Servers
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22059v1
+[INFO] Extracted paper: Investigating the Influence of Prompt and Response Languages on LLM Content Generation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22055v2
+[INFO] Extracted paper: Improving Energy Efficiency of Oil Platforms Through Optimal Loading of Diesel Generators Using Machine Learning and Search Algorithms
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22048v1
+[INFO] Extracted paper: Discovering Dual-Origin Slow Wind from Solar Orbiter with Self-Supervised Contrastive Learning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22045v1
+[INFO] Extracted paper: DELE-w0.5: Inferring Action from Future Latent State for Robotic Manipulation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22026v1
+[INFO] Extracted paper: Decision-Support and Modeling with Large Language Models for Geothermal Well Arrays
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22024v1
+[INFO] Extracted paper: Real-TurnTurk: A Multimodal Turkish Corpus for Turn-Taking Prediction
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22018v3
+[INFO] Extracted paper: ADMIL: Attention-Distilled Multiple Instance Learning for Selective Foundation Model Inference in Pathology
+[INFO] Fetching paper: http://arxiv.org/abs/2608.22014v1
+[INFO] Extracted paper: Search Broadly, Seek Evidence on Both Sides, Decide Narrowly: Evidence-Admissible GraphRAG for Longitudinal Clinical Event Verification
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21995v1
+[INFO] Extracted paper: CRS-Bench: A Reference-Relative Reliability Benchmark for Medical Image Encoders
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21985v1
+[INFO] Extracted paper: MEMORY Wins All: Indirect Bias Injection Attacks via Social Media Feeds
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21979v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/JulianZJN/GenCoord
+[WARNING] GitHub repository unavailable: https://github.com/JulianZJN/GenCoord
+[INFO] Extracted paper: GenCoord: Skill-Path Commitments under Private Information
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21976v1
+[INFO] Extracted paper: SPAR-Hate: Auditor-Guided Multi-Perspective Role Reasoning for Bilingual Hate Speech Parsing
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21964v1
+[INFO] Extracted paper: Variance Driven Exploration: A Provable and Efficient Methodology for Pure Exploration in Highly Stochastic Environments
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21962v1
+[INFO] Extracted paper: One-Step Evolution for Long-Time Extrapolation: An Error-Bound-Informed and Prior-Guided Neural Residual Framework for Autonomous PDEs
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21952v1
+[INFO] Extracted paper: DynaContext: Self-Improving Dynamic Contextualization of Optimized Prompts for Heterogeneous Parameter Extraction
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21950v1
+[INFO] Extracted paper: More Accurate or More Efficient? Evaluating Locally Deployed Compact Open-Weight Language Models for Mathematical Reasoning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21946v2
+[INFO] Extracted paper: Barycentric Fused Gromov-Wasserstein Balancing for Causal Inference under Multiple Treatments
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21942v1
+[INFO] Extracted paper: Multi-Agent Discovery and Resource-Aware Autonomous Exploration of Scientific Datasets
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21941v1
+[INFO] Extracted paper: Redteaming Leading Arabic LLMs with ASAS
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26185v1
+[INFO] Extracted paper: Closed-loop AI achieves certifiable engineering design
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21928v1
+[INFO] Extracted paper: Beyond Similarity: Heterogeneous Graph Learning for Multi-Objective Food Substitution in Charitable Food Agencies
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26184v1
+[INFO] Extracted paper: Repo2Skill-Evo: Repository Skills Go Stale in Silence
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21927v1
+[INFO] Extracted paper: Multimodal Prompt Learning with Irregular EHRs for Robust Monitoring of Critical Care Patients
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21925v1
+[INFO] Extracted paper: NoTB: Oracle-Free Triage of LLM-Generated RTL via Cross-Model Formal Consensus
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21914v1
+[INFO] Extracted paper: Bulbul: A Dataset for Dialectal Arabic Speech Recognition
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21898v1
+[INFO] Extracted paper: GuardianBench: A Same-Scene Instruction-Contrastive Benchmark for Latent Contextual Risk in Embodied AI
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21897v1
+[INFO] Extracted paper: SSDi8: Accurate and Efficient 8-bit Quantization for State Space Duality
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21895v1
+[INFO] Extracted paper: Can You Say This for Me? Speaking Up by Proxy in Co-Located Discussion
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21893v1
+[INFO] Extracted paper: TessIndex: Capability Verified Identity System for the Agent Economy
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21874v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/xvolcano02/EDGE
+[WARNING] GitHub repository unavailable: https://github.com/xvolcano02/EDGE
+[INFO] Extracted paper: EDGE: Experience-Distillation for Guided Exploration in Agentic Reinforcement Learning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21869v1
+[INFO] Extracted paper: TutorTrace: A Dataset and Taxonomy for Classifying Learner Behavioral States during AI-Assisted Programming Education
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21868v1
+[INFO] Extracted paper: Breaking the Assumptions: Auditing Input-Side Jailbreak Defenses Against Semantic Attacks
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21867v1
+[INFO] Extracted paper: Bi-EZP: LLM-Guided Bilevel Program Evolution for Ensemble Zero-Cost Proxy Discovery
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21864v1
+[INFO] Extracted paper: HiMA-MDD: A Hierarchical Multi-Agent Harness for Interpretable Multimodal Depression Detection in Clinical Interviews
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21863v1
+[INFO] Extracted paper: From Solver Feedback to Faithful Plans: Multi-Role Reinforcement Learning for Symbolic Planning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21860v1
+[INFO] Extracted paper: Training Needs Trustworthy Worlds: Verified Synthetic Web Environments for Agent Learning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21858v1
+[INFO] Extracted paper: Pruned Traffic Trees: Native Semantic Compression with a Protocol-Structured Model Family for Encrypted Traffic Classification
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21841v1
+[INFO] Extracted paper: A Scalable Vector Graphics Latent Space
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23619v1
+[INFO] Extracted paper: GuardPaint:SpeculativeSafetyDecodingforText-to-ImageGeneration
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21836v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/fabio-rovai/ies-hqdm-crosswalk
+[WARNING] GitHub repository unavailable: https://github.com/fabio-rovai/ies-hqdm-crosswalk
+[INFO] Extracted paper: Consistency Is Not Coherence: Orientation Search for Certified Alignments Between 4D Defence Upper Ontologies
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21833v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/Matcha-Liu/ESCRAG-R1
+[WARNING] GitHub repository unavailable: https://github.com/Matcha-Liu/ESCRAG-R1
+[INFO] Extracted paper: ESCRAG-R1: Retrieval-Augmented Reinforcement Learning for Emotional Support Conversation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21830v1
+[INFO] Extracted paper: HiDiffTIR: Hierarchical Difficulty-Aware Policy Optimization for Multi-Turn Tool-Integrated Reasoning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21829v2
+[INFO] Extracted paper: AI Watchdog: Agent Interfaces for Detecting and Defending Against Manipulative Dark Patterns in AI Conversations
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21825v1
+[INFO] Extracted paper: Identifying Latent Declarative Representations of Code for Assisting Repository Migration
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21819v1
+[INFO] Extracted paper: Beyond Success and Failure: Length-Aware Contrastive Learning for GUI Agents
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21811v1
+[INFO] Extracted paper: LLM4LLM: Bridging Kernel Benchmarks and Real Deployment via Closed-Loop Agentic Optimization
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21806v1
+[INFO] Extracted paper: GameXpert-Bench: How Far Are Coding Agents from Expert Game Development?
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21803v1
+[INFO] Extracted paper: LLMs are Few-Shot Decision-Makers: Generalized Context-Aware Microgrid Frequency Control through Prompt Decision Transformer
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21796v1
+[INFO] Extracted paper: ChainPrune: Evaluating and Reducing Redundancy in Long Chain-of-Thought Reasoning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21794v1
+[INFO] Extracted paper: BioMed-Agent-RL: A Meta Learning, All You Need for Biomedical Applications
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21792v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/whyyyyy123/MemGuard
+[WARNING] GitHub repository unavailable: https://github.com/whyyyyy123/MemGuard
+[INFO] Extracted paper: MemGuard: Persisting Verifier Signals for LLM-Agent Memory Governance
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21767v1
+[INFO] Extracted paper: HIRA: A Human-in-the-Loop Retrieval-Augmented Cascade for Document Classification in Regulated Industries
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21766v1
+[INFO] Extracted paper: VisAdj: Learning Adjacency Matrices from Node-Link Images
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21764v1
+[INFO] Extracted paper: ExplainGuard: A Zero Trust Framework for Post-Hoc Explanation Integrity Guarantees in Blackbox XAI Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21761v1
+[INFO] Extracted paper: More Computational Resources Do Not Ensure Higher Scholarly Impact: Evidence from Leading NLP Conference Papers
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21755v1
+[INFO] Extracted paper: Hints, Critics, and Teachers: Prior Injection for Sparse-Reward RL in Vision-Language Math Reasoning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21747v1
+[INFO] Extracted paper: PatchGate: Narrowing the Verbalization Gap with Intrinsic Object Inventories in Frozen Vision-Language Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21727v2
+[INFO] Extracted paper: Training a Knowledge Base: Supervised Structure Learning for Agent-Curated Document Stores
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21721v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/MINE-USTC/SAFE-G
+[WARNING] GitHub repository unavailable: https://github.com/MINE-USTC/SAFE-G
+[INFO] Extracted paper: SAFE-G: Structure-aware Faithful Evidence-guided Generation for Knowledge-based Visual Question Answering
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23616v2
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/qijia123/lexical-coupling-release
+[WARNING] GitHub repository unavailable: https://github.com/qijia123/lexical-coupling-release
+[INFO] Extracted paper: Lexical Coupling in GUI Element Grounding: Sentence Embeddings Track Labels across Mobile and Web
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21712v2
+[INFO] Extracted paper: Physics-Knowledge-Guided Hybrid Neural Learning for Arctic Sea Ice Concentration Evolution and Short-Range Prediction
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21702v1
+[INFO] Extracted paper: Evaluation Awareness in Language Models: Representation, Verbalization, and Control
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21700v1
+[INFO] Extracted paper: Architecture as Capability Equalizer for Coding Agents
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21690v1
+[INFO] Extracted paper: ECHO: A Cognitively Inspired, Auditable Memory Plane for Long-Horizon Agents
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21677v1
+[INFO] Extracted paper: Reinforcement Learning on Benign Facts Amplifies Leakage of Memorized Private Data
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21673v1
+[INFO] Extracted paper: LiteEvent-AE: Lightweight Autoencoder for Event-Based Vision on Low-Latency Energy-Constrained Edge Devices
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21668v1
+[INFO] Extracted paper: Ask or Answer: A Decision Framework for Multi-Turn Health Misinformation Intervention
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21664v1
+[INFO] Extracted paper: What Does CLIP Learn for Regional Geolocalization? Probing Visual Cues and Scene Configuration After Adaptation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21662v1
+[INFO] Extracted paper: ATHENA: Knowledge-guided agentic neural architecture search for AutoFormer-based electronic health record modeling
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21646v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/Parker-Fawcett/rebuild-dossier
+[WARNING] GitHub repository unavailable: https://github.com/Parker-Fawcett/rebuild-dossier
+[INFO] Extracted paper: Rebuild Dossier: Mechanically-Enforced Specs for Agentic App Rebuilds, and What Model-Tier Failures Reveal
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21614v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/Silk-Road/causal-rag-rerank
+[WARNING] GitHub repository unavailable: https://github.com/Silk-Road/causal-rag-rerank
+[INFO] Extracted paper: From Association to Causation: Improving Retrieval Precision of Retrieval-Augmented Generation via Causal Relations and an Attention Mechanism
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21610v1
+[INFO] Extracted paper: Context as an Environment: Programmatic Context Management for Long-Horizon Agents
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21605v1
+[INFO] Extracted paper: Scalable quantum simulation of continuous-time generative models via tensor networks
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21601v1
+[INFO] Extracted paper: From Mastery Profile to Simulated Response: Stochastic Student Knowledge Graphs (SSKG) for Faithful LLM Student Simulation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21584v1
+[INFO] Extracted paper: SynEHR: Joint Modeling Inter-visit Temporal Evolution and Intra-visit Clinical Structure for Longitudinal EHR Synthesis
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21583v1
+[INFO] Extracted paper: Read, Write, Relax: Why Neural PDE Surrogates Need Both Global and Local Processing
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21577v1
+[INFO] Extracted paper: Why This, Not That? Mining User Profiles for Pair-wise Counterfactuals
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21570v1
+[INFO] Extracted paper: Power-Performance Characterization of TinyML Systems
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21567v2
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/mkobalski/activation-control
+[WARNING] GitHub repository unavailable: https://github.com/mkobalski/activation-control
+[INFO] Extracted paper: Measuring Activation Control in Large Language Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21558v1
+[INFO] Extracted paper: SAEM: Stage-Aware Expert Management for Memory-Efficient MoE Inference in Chain-of-Thought Reasoning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21544v1
+[INFO] Extracted paper: Semantic Compression Trees: Multi-Resolution Knowledge Retrieval via Hierarchical Semantic Residuals
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21543v1
+[INFO] Extracted paper: Generate in the Chart, Not on the Boundary: Function-Symbol Grounding for Hard Constraints in LTN-GANs
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21359v1
+[INFO] Extracted paper: Robust Lightweight Deep Learning Models for Oral Cancer Screening
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21357v1
+[INFO] Extracted paper: Data-Driven Dynamic Algorithm Dispatch with Large Language Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21356v2
+[INFO] Extracted paper: A Reproducible, License-Aware Distillation Recipe for CPUDeployable Safety Classification
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21343v1
+[INFO] Extracted paper: Quantifying geographic domain shift to decouple the geospatial transferability of human mobility flow generation models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.23611v1
+[INFO] Extracted paper: K-Bench: measuring model performance on real scientific agent requests
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21332v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/lyygua/PFBA
+[WARNING] GitHub repository unavailable: https://github.com/lyygua/PFBA
+[INFO] Extracted paper: Anchoring Bias: A Persistent Fairness Backdoor Attack against MLLMs under Continual Learning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21319v1
+[INFO] Extracted paper: Forgotten in Weights, Recovered by Tools: Agentic Tool Unlearning for LLM Agents
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21317v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/lorenzbrehme/triad
+[WARNING] GitHub repository unavailable: https://github.com/lorenzbrehme/triad
+[INFO] Extracted paper: Automating Multi-Hop RAG Evaluation via TRIAD: From Context Extraction to Validated Dataset Generation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21305v1
+[INFO] Extracted paper: AI with Authority, from Application to Silicon
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21292v1
+[INFO] Extracted paper: presto: Efficient, Training-free, and Open-world Object Placement via Imaginary Search
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21278v1
+[INFO] Extracted paper: VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21501v1
+[INFO] Extracted paper: Primal Acceleration of Newton's Method
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21500v1
+[INFO] Extracted paper: Anatomy-Informed Neural Networks: Encoding Anatomic Priors in Loss and Architecture, with an SE(3) Formulation of Guidewire-Induced Aortoiliac Deformation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21252v1
+[INFO] Extracted paper: TurboBias 2.0: Streaming Context-Biasing for Production-Efficient ASR Systems
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21243v1
+[INFO] Extracted paper: Unified Branch-and-Bound Search for the Steiner Traveling Salesman Problem on Graphs of Convex Sets
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21233v1
+[INFO] Extracted paper: REFINE: A Multi-Agent LLM Approach for Evidence-Guided Code Refactoring
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21499v1
+[INFO] Extracted paper: From Regulation to Implementation: A Critical Evaluation of LLM-Assisted Regulatory Compliance in Industry
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21230v1
+[INFO] Extracted paper: Re$^3$Cap: Retrieval-Guided Refinement for Image Captioning Enhancement via Reinforcement Learning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21224v1
+[INFO] Extracted paper: AUSO: Action-Level Unified Skill Optimization from Internalization to Utilization
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21218v1
+[INFO] Extracted paper: CLEAR: Continuous Latent Adapter Routing for Utility-Preserving LLM Safety Alignment
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21209v1
+[INFO] Extracted paper: Let Credit Follow Computation: Architecture-Aware Credit Transport for Large Language Model Reinforcement Learning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21208v1
+[INFO] Extracted paper: Selection of Heart Sound Segments for Synchronous Classification of Multi-channel Heart Sounds
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21207v1
+[INFO] Extracted paper: Adapting Knowledge Graphs for Behavior Denoising in Sequential Recommendation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21206v1
+[INFO] Extracted paper: Fine-Grain GPU Parallelization of the Generalized Partition Crossover for Large-Scale Traveling Salesman Problems
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21203v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/pppyb/SecOPD
+[WARNING] GitHub repository unavailable: https://github.com/pppyb/SecOPD
+[INFO] Extracted paper: SecOPD: Mitigating Adaptive Prompt Injections by On-Policy Distillation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21189v1
+[INFO] Extracted paper: Utility Under Attack: Agent Memory Poisoning and the Limits of Content Screening and Provenance Ranking
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21187v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/RamonMeng/EnSI-RAG
+[WARNING] GitHub repository unavailable: https://github.com/RamonMeng/EnSI-RAG
+[INFO] Extracted paper: EnSI-RAG: Entity-Structure-Indexed Retrieval-Augmented Generation for Long-Document Question Answering
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21176v1
+[INFO] Extracted paper: Enhancing LLMs in Predictive Political QA with Semi-Structured Data
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21175v1
+[INFO] Extracted paper: Ontology-supported AI Model and Dataset Management
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21174v1
+[INFO] Extracted paper: Curriculum-Aware Interpolate-then-Refine: Learned Physiological Time-Series Imputation under Realistic Missingness
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21170v2
+[INFO] Extracted paper: SENTRY: Deterministic, Intelligent Risk Assessment for IT Change Management
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21159v1
+[INFO] Extracted paper: Specification Portability Across LLM Development Agents: Cross-Agent Compatibility in Specification-Driven Software Migration
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21157v1
+[INFO] Extracted paper: Personalized Privacy Control in LLMs via Attention Head Intervention
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21156v2
+[INFO] Extracted paper: No PUN Intended: Plausible Unknown Names for Person-Centred LLM Evaluation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21140v1
+[INFO] Extracted paper: DAMOS: Learning Distortion-Aware Speech Quality Assessment through Explicit Distortion Localization
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21117v1
+[INFO] Extracted paper: Anchored Regularized Direct Least Squares (ARDLS): Integrating Established Prioritization Operators for Priority Elicitation in the Analytic Hierarchy Process
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21114v2
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/juliadietlmeier/CF-OCT-segmentation
+[WARNING] GitHub repository unavailable: https://github.com/juliadietlmeier/CF-OCT-segmentation
+[INFO] Extracted paper: Towards Investigating Residual Hearing Loss: Quantification of Fibrosis in a Novel Cochlear OCT Dataset
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21107v1
+[INFO] Extracted paper: HIERA: Workload-Aware Planning Across Implementation Spaces for GPU Kernel Optimization
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21106v2
+[INFO] Extracted paper: SRL-MPC: Shape-Aware Reinforcement Learned Model Predictive Control
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21101v1
+[INFO] Extracted paper: From Attention Masks to Inert Zero-Vector Tokens: OAttention and O-Closure for Token Dynamics
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21100v1
+[INFO] Extracted paper: Root cause analysis via difference graph discovery from linear time-series data
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21099v1
+[INFO] Extracted paper: Is Visual Prompting All You Need? Studying VLM Spatial Reasoning under Progressive Visual Scaffolds
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21097v1
+[INFO] Extracted paper: CIVA: Critic-Induced Value-Subspace Attacks on Visual World-Model Agents
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21095v1
+[INFO] Extracted paper: AID-Guard: Stateful Authorization for Delegated Agent Effects
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21089v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/DEEP-JLU/Awesome-Graph-Engineering
+[WARNING] GitHub repository unavailable: https://github.com/DEEP-JLU/Awesome-Graph-Engineering
+[INFO] Extracted paper: Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21074v1
+[INFO] Extracted paper: Large Language Models at the Intersection of Software Engineering and Software Security:An Evidence-Centered Structured Survey and Research Agenda
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21070v1
+[INFO] Extracted paper: A Modular Agent for Reliable and Auditable Spatial Relation Verification in CT Scans
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21067v2
+[INFO] Extracted paper: AT-ViT: Area-Targeted Multi-View Vision Transformer with Cross-Attention and Multi-Scale Patching for Plant Trait Recognition in Herbarium Images
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21060v1
+[INFO] Extracted paper: TracingFlow: A Simulation-Free Trajectory Inference Framework Based on Second-Order Dynamics
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21059v1
+[INFO] Extracted paper: Can Legal AI Know When It Is Wrong? And Do Students Know When It Is?
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21055v1
+[INFO] Extracted paper: When Trust Meets Truth: Trust-Truth Separability in LLM-as-Judge
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21488v1
+[INFO] Extracted paper: A2DINOv3: Rethinking Multi-Modal Object Detection via Socialized Collaboration
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21049v1
+[INFO] Extracted paper: ReFrame: Evidence-Guided Test-Time Safety Alignment in Multimodal Large Language Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21044v1
+[INFO] Extracted paper: PromptResponse: Optimizing Prompts for LLM Coding Tasks
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21041v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/Elroyper/ClawSentry
+[WARNING] GitHub repository unavailable: https://github.com/Elroyper/ClawSentry
+[INFO] Extracted paper: ClawSentry: A Progressive Multi-Tier Security Monitor for Safeguarding Autonomous LLM Agents
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21036v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/GPT-Laboratory/TrustworthyRAG
+[WARNING] GitHub repository unavailable: https://github.com/GPT-Laboratory/TrustworthyRAG
+[INFO] Extracted paper: Trustworthy RAG: An Evaluation Agent for Detecting Misinformation and Knowledge Poisoning in Generative AI Systems
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21027v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/philippbogdan/atom-learning-model
+[WARNING] GitHub repository unavailable: https://github.com/philippbogdan/atom-learning-model
+[INFO] Extracted paper: Atom Learning Model (ALM): how a real classroom got tokenised
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21487v1
+[INFO] Extracted paper: KAN-Robust-Bench: A Benchmark for Evaluating the Robustness of Kolmogorov-Arnold Networks
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21021v1
+[INFO] Extracted paper: CoAnchor: Robust Collaborative Perception under Spatio-Temporal Misalignment via Object-Level Anchors
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21019v1
+[INFO] Extracted paper: The Cost of a Physics Prior Is Bounded by the Ablation Gap
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20988v1
+[INFO] Extracted paper: Don't Solve, Just Compare: Tiny Advisors for Runtime Intervention in LLM Agents
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20975v1
+[INFO] Extracted paper: Socialized Division and Collaboration: Rethinking Class-Incremental Learning under Optimization Conflicts
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20974v1
+[INFO] Extracted paper: Evaluating Large Language Model Performance on International Maritime Dangerous Goods Code Compliance
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20970v1
+[INFO] Extracted paper: $Z^2$-ACT: End-to-End Verifiable Agentic Intent Control for Open 6G RAN
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20967v1
+[INFO] Extracted paper: CellPath-Bench: A Multidimensional Benchmark for Whole-Slide Cellular Representations in Pathology Foundation Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20966v1
+[INFO] Extracted paper: TASSO: TAsk-Specific Subspace Optimization for Continual Learning of Vision-Language Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20964v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/Arandinglv/CoST
+[WARNING] GitHub repository unavailable: https://github.com/Arandinglv/CoST
+[INFO] Extracted paper: CoST: Semantic-Aware Urban Understanding via Spatial-Temporal Alignment
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20963v1
+[INFO] Extracted paper: Target-Aware Calibration Data Selection for Preserving Uncertainty in Quantized Language Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20961v1
+[INFO] Extracted paper: Vibe Coding and Web Application Security: A Twin-Prompt Study
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20960v1
+[INFO] Extracted paper: Extractive Summarization for Arabic Documents Using SAraBERT with a Semantic Siamese Similarity Evaluation Metric
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20958v1
+[INFO] Extracted paper: Structured but Fragile: On the Limits of LLMs in Cybersecurity Decision-Making
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20953v1
+[INFO] Extracted paper: Deep Learning Models Also Recall Features
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20948v1
+[INFO] Extracted paper: Belief Without Behavior: Measuring the Translation of Theory of Mind into Coordinated Social Action in Vision-Language Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20940v1
+[INFO] Extracted paper: Generalizing Soft Tissue Deformation and Force Prediction Across Material Stiffness and Geometry
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20938v1
+[INFO] Extracted paper: Jacobian-guided Noise Injection for Quantization Robustness in Large Language Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20936v1
+[INFO] Extracted paper: Free-Text Evaluation of LLMs for 5G Domain Knowledge and Fault Analysis using LLM-as-Judge
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20927v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/AFARI-Research/WA-JEPA
+[WARNING] GitHub repository unavailable: https://github.com/AFARI-Research/WA-JEPA
+[INFO] Extracted paper: WA-JEPA: Rethinking the Video JEPA Paradigm for World-Action Modeling in Autonomous Driving
+[INFO] Fetching paper: http://arxiv.org/abs/2608.21482v1
+[INFO] Extracted paper: Neural-Primitive: An Efficient End-to-end Local Planner with Primitive-based Imitation Learning for Autonomous Flight
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20925v1
+[INFO] Extracted paper: MentorPulse: Refreshing Cross-Model Latent Guidance for Long-Form Generation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20918v1
+[INFO] Extracted paper: TLive-Omni: An Omni-Modal Understanding Model for E-Commerce Live Streaming
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20913v1
+[INFO] Extracted paper: Graph-Operator World Models for Morphology-Parameter Generalization in Continuous Control
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20887v1
+[INFO] Extracted paper: The Logic of Machine Self-Preservation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20869v1
+[INFO] Extracted paper: No Judgment Without a Reason: Counterfactual Receipts for Versioned AI Evaluators
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20864v1
+[INFO] Extracted paper: Reliability- and Anatomy-Consistency-Aware Multimodal Learning for Robust Fracture Classification from Bangladeshi Radiographs
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20853v1
+[INFO] Extracted paper: Can Scientific Claims Be Removed from Large Language Models? A Systematic Evaluation of Claim-Level Unlearning
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20851v1
+[INFO] Extracted paper: TreeWY: Speculative Verification for Gated DeltaNet Hybrids
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20845v1
+[INFO] Extracted paper: Quantization-Aware Healing: A Practical Recipe for Recovering Compressed, 4-Bit LLMs
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20844v1
+[INFO] Extracted paper: Source-Free MT Evaluation Is Not MT Evaluation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20841v1
+[INFO] Extracted paper: RAG Deserves an Index: Why Ingest-Time Compilation Beats Query-Time Interpretation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20834v1
+[INFO] Extracted paper: BC-Bench: Evaluating Agentic Engineering in a Domain-Specific Language for ERP
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20831v1
+[INFO] Extracted paper: MGAL: A Multilingual Granularity-Aware Long-Context Benchmark
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20825v1
+[INFO] Extracted paper: UpgradeBench: A Decision-Centric Benchmark for Upgrading Fine-Tuned LLM Specialists
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20820v1
+[INFO] Extracted paper: KREL: Automatic Medical Coding via Knowledge-Guided Reasoning over Clinical Evidence with LLMs
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20818v3
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/oceanflowlab/EDD.git
+[WARNING] GitHub repository unavailable: https://github.com/oceanflowlab/EDD.git
+[INFO] Extracted paper: Explainable Deepfake Detection with Feature-robust Augmentation and Evidence-grounded Explanation Optimization
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20810v1
+[INFO] Extracted paper: Coverage-Driven Verification for Safety-by-Design in AI-Based Collision Avoidance Systems
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20809v1
+[INFO] Extracted paper: TRACE: Agentic Catalog Enrichment with Multi-source Evidence Grounding
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20807v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/dmis-lab/ReCurveflow
+[WARNING] GitHub repository unavailable: https://github.com/dmis-lab/ReCurveflow
+[INFO] Extracted paper: ReCurveflow: A Flow Matching Framework that Learns Curved Reaction Trajectories to Predict Transition State Geometries
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20804v2
+[INFO] Extracted paper: Prediction certification cannot replace explanation certification: a competence envelope for trustworthy AI under compound stress
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20802v1
+[INFO] Extracted paper: STAR-OPD: Structured Aspect-Cascade-Aware On-Policy Reward Distillation for ABSA Quadruple Extraction
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20801v1
+[INFO] Extracted paper: Foundation Models for Partial Causal Identification
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20799v1
+[INFO] Extracted paper: Scaling Muon for Diffusion Transformers
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20797v1
+[INFO] Extracted paper: When Generated Images Look Right and Retrieve Wrong: Coverage-Guided Cross-Scale Re-Indexing for Knowledge-Faithful Generative Perception
+[INFO] Fetching paper: http://arxiv.org/abs/2608.26182v1
+[INFO] Extracted paper: Certified Multi-Turn Robustness for LLM Safety via Compositional Bounds and Safety Persistence
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20794v1
+[INFO] Extracted paper: Advantage-level Aggregation Reinforcement Learning for X-point Target Magnetic Configuration Control in an EXL-50U Experiment-Calibrated Simulation Environment
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20791v1
+[INFO] Extracted paper: TRACE: Training-time Report-guided and Clinically Ordered Concept Editing
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20786v1
+[INFO] Extracted paper: Denoising the Future: Context-Aware Spectral Diffusion for Temporal Knowledge Graph Extrapolation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20771v1
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/r11up/geo-cog
+[WARNING] GitHub repository unavailable: https://github.com/r11up/geo-cog
+[INFO] Extracted paper: Neuro-Geospatial Modelling of EEG Affective States Using Literature-Informed Environmental Context
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20769v1
+[INFO] Extracted paper: SPARC: Single-Pass Scaling for Motion Forecasting with Conformal Bayesian Last Layers
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20768v3
+[INFO] Extracted paper: Why did My Robot Just Change Personality? Prompting Guidelines for a Grounded Robot Persona in LLM-Based HRI
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20763v1
+[INFO] Extracted paper: Profiling What Matters: Context-Aware Item Profiles from Large-Scale Metadata for LLM Recommenders
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20761v1
+[INFO] Extracted paper: Dynamic Context Scheduling: Learning Beyond the Static Universe
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20757v1
+[INFO] Extracted paper: Knowing but Not Saying: Preventing Factual Access Failures in LLM SFT via Recall-Anchored Distillation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20756v1
+[INFO] Extracted paper: Do SpeechLMs Hear Their Own Opinions? Diagnosing and Mitigating Previous-Belief Contamination in Streaming Emotion Understanding
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20755v1
+[INFO] Extracted paper: Automated Trajectory Evaluation for Mobile Agents via Step-Level Consequence Reasoning and Aggregation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20743v1
+[INFO] Extracted paper: CertVLA: Certified Defense against Physical Visual Attacks for Vision-Language-Action Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20738v1
+[INFO] Extracted paper: Structure for Reading, Prose for Writing: Asymmetric Structural Conditioning in Multi-Agent Document Authoring
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20735v2
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/S1llyBird/CAS
+[WARNING] GitHub repository unavailable: https://github.com/S1llyBird/CAS
+[INFO] Extracted paper: CAS: Conformalized Agentic Search via Adaptive Retrieval and Policy Weighting
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20729v1
+[INFO] Extracted paper: Beyond Endpoint Gains: A Weight-Delta Audit of Medical Specialization
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20717v1
+[INFO] Extracted paper: CARD: Diagnosing Belief to Action Routing Failures in Vision Language Models
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20690v1
+[INFO] Extracted paper: ForeTime-VLA: Causal Future-Token Distillation from a World Action Model for Conveyor-Belt Manipulation
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20688v1
+[INFO] Extracted paper: Fuzzy-MoE: Interpretable Regime-Conditioned Expert Routing for Non-Stationary Multivariate Time Series Forecasting
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20686v1
+[INFO] Extracted paper: PSK at WMT 2026 MIST: Task-Specialized QLoRA Adapters for Multilingual Summarization and Question Answering
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20685v1
+[INFO] Extracted paper: Calibrating Criterion Revision in LLM Agents: Failure Modes and a Trace-Anchored Protocol
+[INFO] Fetching paper: http://arxiv.org/abs/2608.20670v1
+[INFO] Extracted paper: Continuous-Time Quantum Walks based Graph Neural Network
+[INFO] Extracted paper: Natural-Language-Guided Generator-Agnostic Shortlisting for Protein Binder Design
+[INFO] Extracted paper: Is Multimodal Speculative Decoding Ready for Diffusion-Based Parallel Drafting? A Survey and Empirical Diagnosis
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/SWUFE-DB-Group/Vis-Poison
+[WARNING] GitHub repository unavailable: https://github.com/SWUFE-DB-Group/Vis-Poison
+[INFO] Extracted paper: Vis-Poison: Poisoning Visual Knowledge in Multimodal Retrieval-Augmented Generation
+[INFO] Extracted paper: VortexChat: An agentic framework for autonomous multi-objective integrated photonic design
+[INFO] Extracted paper: Temporal Validity on Real Software Histories: Eliminating Stale-Fact Errors in Code-Assistant Memory over GitHub Fixes
+[INFO] Extracted paper: Identity-Aware Human-Object Interaction Motion Captioning
+[INFO] Extracted paper: Why2Speak: Faithful Reasoning for Abstaining Action Policies
+[INFO] Extracted paper: CDRL: Certification-Driven Reinforcement Learning for Neutrino Flavor Model Discovery
+[WARNING] Source forbidden or blocked (403): https://api.github.com/repos/horacehsugithub/DirEAG
+[WARNING] GitHub repository unavailable: https://github.com/horacehsugithub/DirEAG
+[INFO] Extracted paper: DirEAG: Dirichlet Evidence Aggregation for Calibrating Verbalized Confidence in Mathematical Reasoning

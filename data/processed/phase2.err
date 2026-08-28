@@ -1,0 +1,37 @@
+[INFO] Starting Phase II collection (News & Jobs, limit=30)...
+[WARNING] Source forbidden or blocked (403): https://openai.com/index/supporting-next-generation-ai-startups-thailand
+[WARNING] Source forbidden or blocked (403): https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training
+[WARNING] Source forbidden or blocked (403): https://openai.com/index/expanding-our-presence-in-brazil
+[WARNING] Source forbidden or blocked (403): https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts
+[WARNING] Source forbidden or blocked (403): https://openai.com/index/learning-never-stops
+[WARNING] Source forbidden or blocked (403): https://openai.com/index/hugging-face-incident-and-the-road-ahead
+[WARNING] Source forbidden or blocked (403): https://openai.com/index/loveholidays
+[WARNING] Source forbidden or blocked (403): https://openai.com/index/the-full-stack-behind-abundant-intelligence
+[WARNING] Source forbidden or blocked (403): https://openai.com/index/jalapeno-first-results
+[WARNING] Source forbidden or blocked (403): https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia
+[WARNING] Source forbidden or blocked (403): https://openai.com/index/introducing-admin-plugin
+[WARNING] Source forbidden or blocked (403): https://openai.com/index/gpt-5-6-in-kiro
+[WARNING] Source forbidden or blocked (403): https://openai.com/index/introducing-ai-futures
+[WARNING] Source forbidden or blocked (403): https://openai.com/index/introducing-intelligence-age
+[WARNING] Source forbidden or blocked (403): https://openai.com/index/stampli
+[WARNING] Source forbidden or blocked (403): https://openai.com/index/offering-zero-data-retention-for-frontier-models
+[WARNING] Source forbidden or blocked (403): https://openai.com/index/replit
+[WARNING] Source forbidden or blocked (403): https://openai.com/index/chatgpt-ads-expands-across-europe
+[WARNING] Source forbidden or blocked (403): https://openai.com/index/strengthening-democratic-oversight-in-national-security
+[WARNING] Source forbidden or blocked (403): https://openai.com/index/partnering-with-codeai
+[WARNING] Source forbidden or blocked (403): https://openai.com/index/pacing-model-development-cyber-capabilities
+[WARNING] Source forbidden or blocked (403): https://openai.com/index/chatgpt-for-teens
+[WARNING] Source forbidden or blocked (403): https://openai.com/index/nvidia/chatgpt-work
+[WARNING] Source forbidden or blocked (403): https://openai.com/index/asana
+[WARNING] Source forbidden or blocked (403): https://openai.com/index/the-defenders-window
+[WARNING] Source forbidden or blocked (403): https://openai.com/index/openai-joins-ports-pike-project
+[WARNING] Source forbidden or blocked (403): https://openai.com/index/new-policy-ideas-for-the-intelligence-age
+[WARNING] Source forbidden or blocked (403): https://openai.com/index/builders-guide-to-gpt-5-6
+[WARNING] Source forbidden or blocked (403): https://openai.com/index/previewing-ultrafast
+[WARNING] Source forbidden or blocked (403): https://openai.com/index/dali-rajic-chief-revenue-officer
+[WARNING] Source not found: https://www.anthropic.com/company/leadership
+[WARNING] Source not found: https://job-boards.greenhouse.io/embed/job_board?for=coherehq
+[WARNING] Source quarantined (fetch_failed): https://job-boards.greenhouse.io/embed/job_board?for=coherehq
+[INFO] Phase II collected 10 news and 0 jobs
+[INFO] Wrote 10 news articles to data\output\news.jsonl
+[INFO] Wrote 0 job postings to data\output\jobs.jsonl
