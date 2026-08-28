@@ -1,8 +1,30 @@
+# Environment and credentials
 .env
+*.env
+*.pem
+*.key
+google_service_account*.json
+
+# Virtual Environment
 .venv/
-*.jsonl
-data/processed/*.db
-data/output/*.csv
-data/output/sheets_dry_run.json
+venv/
+env/
+
+# Python caches
 __pycache__/
 *.py[cod]
+*$py.class
+.pytest_cache/
+
+# Databases and runtime data
+data/processed/*.db
+*.db
+*.sqlite3
+
+# Export and temporary outputs
+data/output/*.csv
+data/output/sheets_dry_run.json
+data/export/
+
+# Keep test fixtures
+!tests/fixtures/

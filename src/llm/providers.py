@@ -80,6 +80,13 @@ class HTTPLLMProvider(ABC):
         return (2**attempt) + random.random()
 
 
+SYSTEM_INSTRUCTION = (
+    "Only extract facts present in the supplied source text. "
+    "Use null when a field is not supported. "
+    "Do not infer, guess, or fabricate URLs, dates, metrics, employee counts, pricing, GitHub repositories, or other facts."
+)
+
+
 class GeminiProvider(HTTPLLMProvider):
     name = "gemini"
 
@@ -88,7 +95,15 @@ class GeminiProvider(HTTPLLMProvider):
         self.model = model
 
     def request(self, prompt: str) -> tuple[str, str, dict[str, Any]]:
-        return (f"https://generativelanguage.googleapis.com/v1beta/models/{self.model}:generateContent?key={self.api_key}", {"contents": [{"parts": [{"text": prompt}]}]}, {"Content-Type": "application/json"})
+        body = {
+            "system_instruction": {"parts": [{"text": SYSTEM_INSTRUCTION}]},
+            "contents": [{"parts": [{"text": prompt}]}],
+        }
+        return (
+            f"https://generativelanguage.googleapis.com/v1beta/models/{self.model}:generateContent?key={self.api_key}",
+            body,
+            {"Content-Type": "application/json"},
+        )
 
     def response_text(self, payload: dict[str, Any]) -> str:
         return payload["candidates"][0]["content"]["parts"][0]["text"]
@@ -99,7 +114,19 @@ class OpenAICompatibleProvider(HTTPLLMProvider):
     endpoint: str
 
     def request(self, prompt: str) -> tuple[str, str, dict[str, Any]]:
-        return self.endpoint, {"model": self.model, "messages": [{"role": "user", "content": prompt}], "response_format": {"type": "json_object"}}, {"Authorization": f"Bearer {self.api_key}", "Content-Type": "application/json"}
+        body = {
+            "model": self.model,
+            "messages": [
+                {"role": "system", "content": SYSTEM_INSTRUCTION},
+                {"role": "user", "content": prompt},
+            ],
+            "response_format": {"type": "json_object"},
+        }
+        return (
+            self.endpoint,
+            body,
+            {"Authorization": f"Bearer {self.api_key}", "Content-Type": "application/json"},
+        )
 
     def response_text(self, payload: dict[str, Any]) -> str:
         return payload["choices"][0]["message"]["content"]

@@ -34,7 +34,7 @@ def paper_identity(paper: ResearchPaper) -> str:
 
 
 class PaperCollector:
-    def __init__(self, client: AsyncHTTPClient, workers: int = 10, store_path: Path = Path("data/processed/frontier_atlas.db")) -> None:
+    def __init__(self, client: AsyncHTTPClient, workers: int = 10, store_path: Path = Path("data/processed/idempotency.db")) -> None:
         self.client, self.workers, self.store_path = client, workers, store_path
 
     async def collect(self, urls: Iterable[str]) -> list[ResearchPaper]:
@@ -130,6 +130,67 @@ class PaperCollector:
             return stars
         logger.warning("GitHub repository unavailable: %s", github_url)
         return None
+
+
+async def arxiv_urls(limit: int, client: AsyncHTTPClient) -> list[str]:
+    urls: list[str] = []
+    async with aiohttp.ClientSession() as session:
+        for start in range(0, limit, min(100, limit)):
+            endpoint = f"https://export.arxiv.org/api/query?search_query=cat:cs.AI&start={start}&max_results={min(100, limit - start)}&sortBy=submittedDate&sortOrder=descending"
+            body = await client.fetch(session, endpoint, headers={"Accept": "application/atom+xml"})
+            if not body:
+                break
+            try:
+                root = ET.fromstring(body)
+            except ET.ParseError:
+                break
+            page = [item.text.strip() for item in root.findall("{http://www.w3.org/2005/Atom}entry/{http://www.w3.org/2005/Atom}id") if item.text]
+            urls.extend(url for url in page if "/abs/" in url)
+            if len(page) < min(100, limit - start):
+                break
+    return urls[:limit]
+
+
+async def paperswithcode_urls(limit: int, client: AsyncHTTPClient) -> list[str]:
+    urls: list[str] = []
+    page_size = min(50, limit)
+    async with aiohttp.ClientSession() as session:
+        for page in range(1, (limit // page_size) + 2):
+            endpoint = f"https://paperswithcode.com/api/v1/papers/?page={page}&items_per_page={page_size}"
+            payload = await client.fetch_json(session, endpoint)
+            if not payload or not isinstance(payload, dict):
+                break
+            results = payload.get("results", [])
+            if not results:
+                break
+            for item in results:
+                paper_id = item.get("id")
+                if paper_id:
+                    urls.append(f"https://paperswithcode.com/paper/{paper_id}")
+                elif item.get("url_abs"):
+                    urls.append(item["url_abs"])
+            if len(urls) >= limit or not payload.get("next"):
+                break
+    return urls[:limit]
+
+
+async def discover_paper_urls(limit: int, client: AsyncHTTPClient, source: str = "all") -> list[str]:
+    if source == "arxiv":
+        return await arxiv_urls(limit, client)
+    elif source == "paperswithcode":
+        return await paperswithcode_urls(limit, client)
+    else:  # "all"
+        arxiv_limit = (limit + 1) // 2
+        pwc_limit = limit // 2
+        a_urls = await arxiv_urls(arxiv_limit, client)
+        p_urls = await paperswithcode_urls(pwc_limit, client)
+        combined = []
+        for i in range(max(len(a_urls), len(p_urls))):
+            if i < len(a_urls):
+                combined.append(a_urls[i])
+            if i < len(p_urls):
+                combined.append(p_urls[i])
+        return combined[:limit]
 
 
 def write_jsonl(papers: Iterable[ResearchPaper], output: Path) -> None:

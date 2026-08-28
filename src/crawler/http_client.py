@@ -31,7 +31,7 @@ class AsyncHTTPClient:
         return body
 
     async def fetch_with_status(self, session: aiohttp.ClientSession, url: str, *, headers: dict[str, str] | None = None) -> tuple[str | None, str]:
-        request_headers = {"User-Agent": "FrontierAtlasPhaseI/1.0", "Accept": "text/html,application/json;q=0.9,*/*;q=0.8"}
+        request_headers = {"User-Agent": "AIEcosystemPipeline/1.0", "Accept": "text/html,application/json;q=0.9,*/*;q=0.8"}
         if headers:
             request_headers.update(headers)
         async with self.semaphore:

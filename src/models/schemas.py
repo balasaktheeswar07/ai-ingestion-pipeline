@@ -96,10 +96,13 @@ class JobPosting(BaseModel):
 
 
 class EntityMapping(BaseModel):
-    raw_name: str
-    normalized_name: str
-    canonical_name: str | None = None
-    match_method: str
+    model_config = ConfigDict(populate_by_name=True)
+    schema_version: str = Field(default="1.0", alias="schemaVersion")
+    record_type: str = Field(default="ENTITY_MAPPING", alias="recordType")
+    raw_name: str = Field(alias="raw_name")
+    normalized_name: str = Field(alias="normalized_name")
+    canonical_name: str | None = Field(default=None, alias="canonical_name")
+    match_method: str = Field(alias="match_method")
     confidence: float = Field(ge=0, le=1)
-    source_url: HttpUrl | None = None
-    timestamp: datetime
+    source_url: HttpUrl | None = Field(default=None, alias="source_url")
+    timestamp: datetime = Field(alias="timestamp")

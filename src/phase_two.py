@@ -52,31 +52,71 @@ def parse_feed(xml: str, limit: int) -> list[tuple[str, str]]:
     return entries
 
 
-async def collect_phase_two(*, limit: int = 20, config_path: Path = Path("config/sources.json")) -> tuple[list, list]:
-    config, client, store = load_sources(config_path), AsyncHTTPClient(max_concurrency=5), IdempotencyStore()
+async def collect_phase_two(
+    *,
+    limit: int = 20,
+    config_path: Path = Path("config/sources.json"),
+    store_path: Path = Path("data/processed/idempotency.db"),
+    mapping_log: Path = Path("data/output/entity_mapping.jsonl"),
+) -> tuple[list, list]:
+    config = load_sources(config_path)
+    client = AsyncHTTPClient(max_concurrency=5)
+    store = IdempotencyStore(store_path)
+    resolver = EntityResolver(mapping_log=mapping_log)
     news, jobs = [], []
     try:
         async with aiohttp.ClientSession() as session:
-            for record_type, extractor, output in (("NEWS_ARTICLE", extract_article, news), ("JOB_POSTING", extract_job, jobs)):
-                for source in config["news" if record_type == "NEWS_ARTICLE" else "jobs"]:
-                    landing = await client.fetch(session, source["url"])
-                    if not landing:
+            # Collect News
+            for source in config["news"]:
+                if len(news) >= limit:
+                    break
+                landing = await client.fetch(session, source["url"])
+                if not landing:
+                    continue
+                try:
+                    links = [(url, published) for url, published in parse_feed(landing, limit)] if source.get("kind") == "rss" else [(url, "") for url in discover_links(landing, source["url"], limit)]
+                except ET.ParseError:
+                    logger.warning("Source returned invalid RSS/XML: %s", source["url"])
+                    continue
+                for url, feed_date in links:
+                    if len(news) >= limit:
+                        break
+                    page = await client.fetch(session, url)
+                    if not page:
                         continue
-                    try:
-                        links = [(url, published) for url, published in parse_feed(landing, limit)] if source.get("kind") == "rss" else [(url, "") for url in discover_links(landing, source["url"], limit)]
-                    except ET.ParseError:
-                        logger.warning("Source returned invalid RSS/XML: %s", source["url"])
+                    if feed_date and "published_time" not in page and "datePublished" not in page:
+                        page = f'<meta property="article:published_time" content="{feed_date}">{page}'
+                    record = extract_article(page, url, source["name"], collected_at=datetime.now(UTC))
+                    if record and is_fresh(record.published_at) and store.claim(str(record.article_url), "NEWS_ARTICLE"):
+                        news.append(record)
+
+            # Collect Jobs
+            for source in config["jobs"]:
+                if len(jobs) >= limit:
+                    break
+                company_hint = source["name"].replace("Careers", "").replace("Jobs", "").strip()
+                landing = await client.fetch(session, source["url"])
+                if not landing:
+                    continue
+                try:
+                    links = [(url, published) for url, published in parse_feed(landing, limit)] if source.get("kind") == "rss" else [(url, "") for url in discover_links(landing, source["url"], limit)]
+                except ET.ParseError:
+                    logger.warning("Source returned invalid RSS/XML: %s", source["url"])
+                    continue
+                for url, feed_date in links:
+                    if len(jobs) >= limit:
+                        break
+                    page = await client.fetch(session, url)
+                    if not page:
                         continue
-                    for url, feed_date in links:
-                        page = await client.fetch(session, url)
-                        if not page:
-                            continue
-                        if feed_date and "published_time" not in page and "datePublished" not in page:
-                            page = f'<meta property="article:published_time" content="{feed_date}">{page}'
-                        record = extractor(page, url, source["name"], collected_at=datetime.now(UTC))
-                        if record and is_fresh(record.published_at) and store.claim(str(record.article_url if record_type == "NEWS_ARTICLE" else record.job_url), record_type):
-                            output.append(record)
+                    if feed_date and "published_time" not in page and "datePublished" not in page:
+                        page = f'<meta property="article:published_time" content="{feed_date}">{page}'
+                    record = extract_job(page, url, source["name"], company=company_hint, collected_at=datetime.now(UTC))
+                    if record and is_fresh(record.published_at) and store.claim(str(record.job_url), "JOB_POSTING"):
+                        if record.company:
+                            resolver.resolve(record.company, source_url=str(record.job_url))
+                        jobs.append(record)
     finally:
         store.close()
     logger.info("Phase II collected %d news and %d jobs", len(news), len(jobs))
-    return news, jobs
+    return news[:limit], jobs[:limit]

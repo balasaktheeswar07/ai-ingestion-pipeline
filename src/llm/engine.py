@@ -26,9 +26,17 @@ class LLMProvider(ABC):
         raise NotImplementedError
 
 
+EXTRACTION_SYSTEM_INSTRUCTION = (
+    "Only extract facts present in the supplied source text. "
+    "Use null when a field is not supported. "
+    "Do not infer, guess, or fabricate URLs, dates, metrics, employee counts, pricing, GitHub repositories, or other facts."
+)
+
+
 class ExtractionEngine:
     def __init__(self, providers: list[LLMProvider], max_input_chars: int = 12000, retries: int = 3) -> None:
         self.providers, self.max_input_chars, self.retries = providers, max_input_chars, retries
+        self._last_error_oversized = False
 
     @classmethod
     def with_default_providers(cls, **kwargs: Any) -> "ExtractionEngine":
@@ -38,8 +46,11 @@ class ExtractionEngine:
 
     async def extract(self, text: str, model: type[BaseModel], *, title: str = "", metadata: str = "") -> BaseModel | None:
         size = self.max_input_chars
-        while size >= 500:
-            chunks = chunk_text(text, max_chars=size, title=title, metadata=metadata)
+        while size >= 100:
+            try:
+                chunks = chunk_text(text, max_chars=size, title=title, metadata=metadata)
+            except ValueError:
+                break
             values: list[dict[str, Any]] = []
             oversized = False
             for chunk in chunks:

@@ -1,4 +1,4 @@
-# Frontier Atlas architecture
+# AI Ecosystem Pipeline Architecture
 
 ## IMPLEMENTED NOW
 

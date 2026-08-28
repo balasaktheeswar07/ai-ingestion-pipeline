@@ -23,8 +23,20 @@ def load_jsonl_records(directory: Path = Path("data/output")) -> dict[str, list[
 
 
 def transform_records(records_by_tab: dict[str, Iterable[BaseModel]]) -> dict[str, list[dict[str, object]]]:
-    names = ("startups", "products", "research_papers", "jobs", "news", "entity_mapping_log")
-    return {tab: [record.model_dump(mode="json", by_alias=True) for record in records_by_tab.get(key, [])] for tab, key in zip(TAB_NAMES, names)}
+    mapping_tab_data = (
+        records_by_tab.get("entity_mapping_log")
+        or records_by_tab.get("entity_mapping")
+        or []
+    )
+    result = {
+        "Startups": [record.model_dump(mode="json", by_alias=True) for record in records_by_tab.get("startups", [])],
+        "Products": [record.model_dump(mode="json", by_alias=True) for record in records_by_tab.get("products", [])],
+        "Research Papers": [record.model_dump(mode="json", by_alias=True) for record in records_by_tab.get("research_papers", [])],
+        "Jobs": [record.model_dump(mode="json", by_alias=True) for record in records_by_tab.get("jobs", [])],
+        "News": [record.model_dump(mode="json", by_alias=True) for record in records_by_tab.get("news", [])],
+        "Entity Mapping Log": [record.model_dump(mode="json", by_alias=True) for record in mapping_tab_data],
+    }
+    return result
 
 
 def export_google_sheets(records_by_tab: dict[str, Iterable[BaseModel]], *, spreadsheet_id: str | None = None, dry_run: bool = False, output: Path = Path("data/output/sheets_dry_run.json")) -> str | None:

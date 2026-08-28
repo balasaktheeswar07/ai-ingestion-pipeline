@@ -1,0 +1,23 @@
+{
+  "count": 2,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "lora-low-rank-adaptation-of-large-language",
+      "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+      "authors": ["Edward J. Hu", "Yelong Shen"],
+      "published": "2021-06-17",
+      "url_abs": "https://arxiv.org/abs/2106.09685",
+      "paper_url": "https://paperswithcode.com/paper/lora-low-rank-adaptation-of-large-language"
+    },
+    {
+      "id": "qlora-efficient-finetuning-of-quantized-llms",
+      "title": "QLoRA: Efficient Finetuning of Quantized LLMs",
+      "authors": ["Tim Dettmers", "Artidoro Pagnoni"],
+      "published": "2023-05-23",
+      "url_abs": "https://arxiv.org/abs/2305.14314",
+      "paper_url": "https://paperswithcode.com/paper/qlora-efficient-finetuning-of-quantized-llms"
+    }
+  ]
+}

@@ -1,10 +1,27 @@
 {
   "startups": [
-    {"name": "OpenAI", "url": "https://openai.com/about/"},
-    {"name": "Anthropic", "url": "https://www.anthropic.com/company"}
+    {"name": "Hugging Face Organizations API", "url": "https://huggingface.co/api/organizations", "kind": "api"},
+    {"name": "OpenAI", "url": "https://openai.com/about/", "kind": "html"},
+    {"name": "Anthropic", "url": "https://www.anthropic.com/company", "kind": "html"},
+    {"name": "Mistral AI", "url": "https://mistral.ai/company/", "kind": "html"},
+    {"name": "Cohere", "url": "https://cohere.com/about", "kind": "html"},
+    {"name": "Scale AI", "url": "https://scale.com/about", "kind": "html"},
+    {"name": "Perplexity AI", "url": "https://www.perplexity.ai/about", "kind": "html"},
+    {"name": "Groq", "url": "https://groq.com/about-us/", "kind": "html"},
+    {"name": "Pinecone", "url": "https://www.pinecone.io/company/", "kind": "html"},
+    {"name": "Weights & Biases", "url": "https://wandb.ai/site/about", "kind": "html"},
+    {"name": "ElevenLabs", "url": "https://elevenlabs.io/about", "kind": "html"}
   ],
   "products": [
-    {"name": "OpenAI Products", "url": "https://openai.com/chatgpt/overview/"},
-    {"name": "Anthropic Products", "url": "https://www.anthropic.com/claude"}
+    {"name": "Hugging Face Models API", "url": "https://huggingface.co/api/models?limit=50&pipeline_tag=text-generation", "kind": "api"},
+    {"name": "OpenAI Pricing", "url": "https://openai.com/pricing", "kind": "html"},
+    {"name": "Anthropic Claude Pricing", "url": "https://www.anthropic.com/pricing", "kind": "html"},
+    {"name": "Mistral AI Platform", "url": "https://mistral.ai/technology/", "kind": "html"},
+    {"name": "Groq Cloud", "url": "https://groq.com/pricing/", "kind": "html"},
+    {"name": "Pinecone Pricing", "url": "https://www.pinecone.io/pricing/", "kind": "html"},
+    {"name": "Perplexity Pro", "url": "https://www.perplexity.ai/pro", "kind": "html"},
+    {"name": "Cursor IDE", "url": "https://www.cursor.com/pricing", "kind": "html"},
+    {"name": "ElevenLabs Pricing", "url": "https://elevenlabs.io/pricing", "kind": "html"},
+    {"name": "Replit Pricing", "url": "https://replit.com/pricing", "kind": "html"}
   ]
-}
+}
