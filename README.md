@@ -2,7 +2,7 @@
 
 This repository implements a robust, source-traceable AI ecosystem data ingestion and structured intelligence pipeline. It extracts validated records for research papers, fresh ecosystem news, AI job openings, emerging startups, and AI products with persistent SQLite idempotency, deterministic entity resolution, Pydantic schema validation, LLM fallback extraction, and multi-channel export (JSONL, CSV, Google Sheets).
 demo video:https://drive.google.com/file/d/1_6HwBNnsMRCA2wSGEC3BEGo7Kn3u-LS1/view?usp=sharing
-I really encourage your thoughts here, let's make this more innovative
+I really encourage you to drop your comments here, let's make this more innovative
 > **Data Integrity Guarantee**: Live record counts depend on source availability and API credentials. The pipeline never fabricates records to satisfy quotas.
 
 ---
